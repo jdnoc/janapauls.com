@@ -30,9 +30,6 @@ social:
     - https://www.facebook.com/gerssian
     - https://instagram.com/gerssian
     - https://instagram.com/janapauls
-
-# Build settings
-# Markdown
 markdown: kramdown
 kramdown:
   imput: GFM
