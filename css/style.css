@@ -1170,7 +1170,7 @@ textarea:focus {
 img {
     max-width: 100%;
 }
-
+/*
 .tv {
   position: absolute;
   top: 0;
@@ -1193,4 +1193,4 @@ img {
 }
 .tv .screen.active {
   opacity: 1;
-}
+}*/
