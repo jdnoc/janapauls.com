@@ -1,11 +1,39 @@
 ---
+title: Jana Pauls
 layout: default
 image: 
 header-titles:
 - Jana Pauls.
 - Evangelist.
 ---
-
+<style>
+.tv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1000;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+.tv .screen {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  margin: auto;
+  opacity: 0;
+  transition: opacity .5s;
+}
+.tv .screen.active {
+  opacity: 1;
+}
+</style>
+<div class="tv">
+    <div class="screen mute" id="tv"></div>
+</div>
 <!-- box-intro -->
 <section class="box-intro">
     <div class="table-cell">
@@ -27,11 +55,12 @@ header-titles:
 </section>
 <!-- end box-intro -->
 <!-- posts div -->
+<section>
 <div class="posts-div">
     <div class="posts">
-        <div class="no-padding posts_container">{% for post in stie.posts %}{% if forloop.index0 == 3 or forloop.index0 == 6 %}
+        <div class="no-padding posts_container">{% for post in site.posts %}{% if forloop.index0 == 3 or forloop.index0 == 6 %}
             <div class="col-md-6 col-sm-12 photography">
-                <a href="single-project.html" class="posts_item">
+                <a href="{{ post.url }}" class="posts_item">
                     <img src="{{ post.image }}" alt="image" class="img-responsive" />
                     <div class="posts_item_hover">
                         <div class="posts-border clearfix">
@@ -44,7 +73,7 @@ header-titles:
                 </a>
             </div>{% else %}
             <div class="col-md-3 col-sm-6">
-                <a href="single-project.html" class="posts_item">
+                <a href="{{ post.url }}" class="posts_item">
                     <img src="{{ post.image }}" alt="image" class="img-responsive" />
                     <div class="posts_item_hover">
                         <div class="posts-border clearfix">
@@ -61,3 +90,4 @@ header-titles:
     </div>
     <!-- posts -->
 </div>
+</section>

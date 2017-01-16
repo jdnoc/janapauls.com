@@ -6,8 +6,8 @@ layout: default
     .top-bar {
         color: #333;
         padding: 150px 0 150px;
-        background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url({{ post.image }});
-        background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url({{ post.image }});
+        background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("{{ page.image }}");
+        background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url("{{ page.image }}");
         background-size: cover;
         background-attachment: fixed;
         background-position: center center;
@@ -16,13 +16,13 @@ layout: default
 </style>
 
 <div class="top-bar">
-    <h1>{{ post.title </h1>
-    <p>{{ post.subtitle }}</p>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.subtitle }}</p>
 </div>
 <div class="container main-container">
     <div class="col-md-12">
-            <h3 class="text-uppercase">{{ post.title }}</h3>
-            <h5>{{ post.subtitle }}</h5>
+            <h1 class="text-uppercase">{{ page.title }}</h3>
+            <h2>{{ page.subtitle }}</h5>
             <div class="h-30"></div>
         </div>
         <div class="col-md-9">
@@ -30,7 +30,7 @@ layout: default
         </div>
         <div class="col-md-3">
             <ul class="cat-ul">
-                {% for items in post.tags %}
+                {% for item in page.tags %}
                 <li><i class="ion-ios-circle-filled"></i>{{ item }}</li>
                 {% endfor %}
             </ul>

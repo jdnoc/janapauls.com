@@ -10,8 +10,6 @@ subtitle: This is an example post!
 image: "/uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png"
 ---
 
-# An Update in 2017
-
 This is an example of what a post can look like!
 
 # Heading Size 1
@@ -39,4 +37,5 @@ Here is a quote:
 This is a link! [riverrochester.com](https://riverrochester.com)
 
 This is **Bold text**.
-Is is in *Italics*.
+
+This is in *Italics*.
