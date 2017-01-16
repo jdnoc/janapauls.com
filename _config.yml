@@ -27,6 +27,39 @@ markdown: kramdown
 kramdown:
   imput: GFM
 gems:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collection Configs
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: post
+    title: ""
+    subtitle: ""
+    image: ""
+    tags: 
+      - ""
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: pages
+    title: ""
+    subtitle: ""
+    image: ""
 - jekyll-feed
 - jekyll-assets
 - jekyll-paginate
