@@ -50,3 +50,7 @@ gems:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-seo-tag
+
+sass:
+  sass_dir: css/_sass
+  style: compressed
