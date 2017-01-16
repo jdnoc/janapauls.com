@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Jana Pauls Ministries Intl."
 description: "An evangelist helping save the world one soul at a time"
-email: gerssian@gmail.com
+email: "gerssian@gmail.com"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://janapauls.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: none
@@ -24,12 +24,15 @@ permalink: none
 twitter:
   username: gerssian
 social:
-  name: Jana Pauls
+  name: "Jana Pauls"
   links:
     - https://twitter.com/gerssian
     - https://www.facebook.com/gerssian
     - https://instagram.com/gerssian
     - https://instagram.com/janapauls
+
+# Build settings
+# Markdown
 markdown: kramdown
 kramdown:
   imput: GFM
@@ -39,23 +42,3 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-
-# Collection Configs
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    title: ''
-    subtitle: ''
-    image: ''
-    tags: 
-      - ''
-- scope:
-    path: ''
-    type: page
-  values:
-    layout: page
-    title: ''
-    subtitle: ''
-    image: ''
