@@ -29,6 +29,7 @@ Here is a numbered list
 1. One
 2. Two
 3. Three
+4. Four
 
 Here is a quote: 
 > “Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.”
