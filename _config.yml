@@ -60,8 +60,4 @@ defaults:
     title: ""
     subtitle: ""
     image: ""
-- jekyll-feed
-- jekyll-assets
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-seo-tag
+
