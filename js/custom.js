@@ -107,8 +107,8 @@ if (e.data === 1){
 
 function vidRescale(){
 
-var w = $(window).width()+200,
-    h = $(window).height()+200;
+var w = $(window).width()+200;
+var h = $(window).height()+200;
 
 if (w/h > 16/9){
     tv.setSize(w, w/16*9);
@@ -118,22 +118,6 @@ if (w/h > 16/9){
     $('.tv .screen').css({'left': -($('.tv .screen').outerWidth()-w)/2});
 }
 }
-
 $(window).on('load resize', function(){
 vidRescale();
-});
-
-$('.hi span:first-of-type').on('click', function(){
-$('#tv').toggleClass('mute');
-$('.hi em:first-of-type').toggleClass('hidden');
-if($('#tv').hasClass('mute')){
-    tv.mute();
-} else {
-    tv.unMute();
-}
-});
-
-$('.hi span:last-of-type').on('click', function(){
-$('.hi em:nth-of-type(2)').html('~');
-tv.pauseVideo();
 });
