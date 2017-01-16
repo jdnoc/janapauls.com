@@ -1,10 +1,11 @@
 ---
 layout: default
-image:
+image: 
 header-titles:
-    - Jana Pauls.
-    - Evangelist.
+- Jana Pauls.
+- Evangelist.
 ---
+
 <!-- box-intro -->
 <section class="box-intro">
     <div class="table-cell">
