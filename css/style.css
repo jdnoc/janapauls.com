@@ -14,12 +14,12 @@
     - Preloader -
 	- Header -
     - box intro section -
-    - Portfoilo section -
+    - posts section -
     - Footer -
     - About page -
     - Services page -
     - contact page -
-    - Portfolio single page -
+    - posts single page -
     - Responsive media queries -
 */
 
@@ -682,21 +682,21 @@ b i:last-child {
 }
 
 
-/* portfolio section
+/* posts section
 ==================================================*/
 
-.portfolio .categories-grid span {
+.posts .categories-grid span {
     font-size: 30px;
     margin-bottom: 30px;
     display: inline-block;
 }
 
-.portfolio .categories-grid .categories ul li {
+.posts .categories-grid .categories ul li {
     list-style: none;
     margin: 20px 0;
 }
 
-.portfolio .categories-grid .categories ul li a {
+.posts .categories-grid .categories ul li a {
     display: inline-block;
     color: #60606e;
     padding: 0 10px;
@@ -705,12 +705,12 @@ b i:last-child {
     transition: all .2s ease-in-out .2s;
 }
 
-.portfolio .categories-grid .categories ul li a:hover,
-.portfolio .categories-grid .categories ul li a:focus {
+.posts .categories-grid .categories ul li a:hover,
+.posts .categories-grid .categories ul li a:focus {
     text-decoration: none;
 }
 
-.portfolio .categories-grid .categories ul li a.active {
+.posts .categories-grid .categories ul li a.active {
     margin-left: 0;
     background-color: #ffbf00;
     padding: 0px 20px;
@@ -719,17 +719,17 @@ b i:last-child {
     text-decoration: none;
 }
 
-.portfolio_filter {
+.posts_filter {
     padding-left: 0;
 }
 
-.portfolio_item {
+.posts_item {
     position: relative;
     overflow: hidden;
     display: block;
 }
 
-.portfolio_item .portfolio_item_hover {
+.posts_item .posts_item_hover {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -743,7 +743,7 @@ b i:last-child {
     transition: all .2s ease-in-out;
 }
 
-.portfolio_item .portfolio_item_hover .item_info {
+.posts_item .posts_item_hover .item_info {
     text-align: center;
     position: absolute;
     top: 50%;
@@ -755,7 +755,7 @@ b i:last-child {
     font-weight: bold;
 }
 
-.portfolio_item .portfolio_item_hover .item_info span {
+.posts_item .posts_item_hover .item_info span {
     display: block;
     color: #fff;
     font-size: 18px;
@@ -766,7 +766,7 @@ b i:last-child {
     opacity: 0;
 }
 
-.portfolio_item .portfolio_item_hover .item_info em {
+.posts_item .posts_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
     background-color: #ffbf00;
@@ -783,30 +783,30 @@ b i:last-child {
     letter-spacing: 2px;
 }
 
-.portfolio_item:hover .portfolio_item_hover {
+.posts_item:hover .posts_item_hover {
     opacity: 1;
     -webkit-transform: translateX(0);
     transform: translateX(0);
 }
 
-.portfolio_item:hover .item_info em,
-.portfolio_item:hover .item_info span {
+.posts_item:hover .item_info em,
+.posts_item:hover .item_info span {
     opacity: 1;
     -webkit-transform: translateX(0);
     transform: translateX(0);
 }
 
-.portfolio .categories-grid .categories ul li {
+.posts .categories-grid .categories ul li {
     float: left;
 }
 
-.portfolio .categories-grid .categories ul li a {
+.posts .categories-grid .categories ul li a {
     padding: 0 10px;
     -webkit-transition: all .2s ease-in-out .2s;
     transition: all .2s ease-in-out .2s;
 }
 
-.portfolio_filter {
+.posts_filter {
     padding-left: 0;
     display: inline-block;
     margin: 0 auto;
@@ -814,7 +814,7 @@ b i:last-child {
     margin-bottom: 50px;
 }
 
-.portfolio-inner {
+.posts-inner {
     padding-bottom: 0 !important;
     padding-top: 55px;
 }
@@ -887,17 +887,6 @@ footer img {
 
 /* About page
 ==================================================*/
-
-.top-bar {
-    color: #333;
-    padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center center;
-    text-align: center;
-}
 
 .top-bar h1 {
     font-size: 60px;
@@ -1111,15 +1100,15 @@ textarea:focus {
 ==================================================*/
 
 @media (max-width: 991px) {
-    .portfolio .categories-grid span {
+    .posts .categories-grid span {
         margin-bottom: 0;
         text-align: center;
         width: 100%;
     }
-    .portfolio .categories-grid .categories ul li {
+    .posts .categories-grid .categories ul li {
         text-align: center;
     }
-    .portfolio .categories-grid .categories ul li a {
+    .posts .categories-grid .categories ul li a {
         margin-left: 0;
     }
     .col-md-6 h3 {
@@ -1148,7 +1137,7 @@ textarea:focus {
         font-size: 40px;
         line-height: 30px;
     }
-    .portfolio .categories-grid .categories ul li {
+    .posts .categories-grid .categories ul li {
         float: none;
     }
 }

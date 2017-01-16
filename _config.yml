@@ -13,28 +13,52 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: "Jana Pauls Ministries Intl."
+description: "An evangelist helping save the world one soul at a time"
+email: gerssian@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://janapauls.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: none
+
+# Social
+twitter:
+  username: gerssian
+social:
+  name: Jana Pauls
+  links:
+    - https://twitter.com/gerssian
+    - https://www.facebook.com/gerssian
+    - https://instagram.com/gerssian
+    - https://instagram.com/janapauls
 
 # Build settings
 # Markdown
-markdown:           kramdown
+markdown: kramdown
 kramdown:
-  imput:            GFM
+  imput: GFM
 gems:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-exclude:
-  - Gemfile
-  - Gemfile.lock
+
+# Collection Configs
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    title: ''
+    subtitle: ''
+    image: ''
+    tags: 
+      - ''
+- scope:
+    path: ''
+    type: page
+  values:
+    layout: page
+    title: ''
+    subtitle: ''
+    image: ''
