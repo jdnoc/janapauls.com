@@ -41,7 +41,6 @@ social:
   - https://www.facebook.com/gerssian
   - https://instagram.com/gerssian
   - https://instagram.com/janapauls
-
 gems:
 - github-pages
 - jekyll-seo-tag
@@ -51,8 +50,7 @@ repository: me/super-cool-project
 sass:
   sass_dir: css/_sass
   style: compressed
-ga_analytics:
-
+ga_analytics: 
 markdown: kramdown
 kramdown:
   imput: GFM
