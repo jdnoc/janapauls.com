@@ -46,7 +46,6 @@ gems:
 - jekyll-seo-tag
 - jekyll-github-metadata
 repository: me/super-cool-project
-
 sass:
   sass_dir: css/_sass
   style: compressed
