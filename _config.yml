@@ -42,9 +42,11 @@ social:
   - https://instagram.com/gerssian
   - https://instagram.com/janapauls
 gems:
-- github-pages
-- jekyll-seo-tag
-- jekyll-github-metadata
+- "jekyll-feed"
+- "jekyll-assets"
+- "jekyll-paginate"
+- "jekyll-sitemap"
+- "jekyll-seo-tag"
 repository: me/super-cool-project
 sass:
   sass_dir: css/_sass
