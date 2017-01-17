@@ -1,14 +1,17 @@
 ---
+layout: compress
 ---
 
 <!DOCTYPE html>
 <html lang="en">
+<head>  
 {% include head.html %}
+{% include css.html %}
+{% include js.html %}
+</head>
 <body>
 {% include nav.html %}
 {{content}}
 {% include footer.html %}
 </body>
-{% include css.html %}
-{% include js.html %}
 </html>
