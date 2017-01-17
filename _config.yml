@@ -41,9 +41,7 @@ social:
   - https://www.facebook.com/gerssian
   - https://instagram.com/gerssian
   - https://instagram.com/janapauls
-markdown: kramdown
-kramdown:
-  imput: GFM
+
 gems:
 - jekyll-feed
 - jekyll-assets
@@ -53,3 +51,8 @@ gems:
 sass:
   sass_dir: css/_sass
   style: compressed
+ga_analytics:
+
+markdown: kramdown
+kramdown:
+  imput: GFM

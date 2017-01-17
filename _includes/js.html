@@ -11,4 +11,19 @@
 
 <!--  custom script -->
 <script async src="js/custom.js"></script>
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Raleway:300,500,700&amp;lang=en" />
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
+<script>
+  WebFont.load({
+    google: {
+      families: ['Raleway:300,500,700']
+    }
+  });
+</script>
+
+{% if site.ga_analytics %}
+  <script>
+    window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+    ga('create','{{ site.ga_analytics }}','auto');ga('send','pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+{% endif %}
