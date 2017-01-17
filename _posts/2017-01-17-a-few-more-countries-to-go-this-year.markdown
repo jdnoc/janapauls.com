@@ -1,6 +1,12 @@
 ---
 title: A Few More Countries to Go This Year!
 date: 2017-01-17 16:37:00 Z
+tags:
+- End of the year
+- River Rochester
+- Thessaloniki Greece
+- Cairo Egypt
+- Juba South Sudan
 subtitle: Never slow down, finish the year with a bang!
 image: "/uploads/0e2df024-725b-403e-90e6-706bd6059f0f.png"
 ---
