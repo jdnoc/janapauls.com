@@ -43,11 +43,11 @@ social:
   - https://instagram.com/janapauls
 
 gems:
-- jekyll-feed
-- jekyll-assets
-- jekyll-paginate
-- jekyll-sitemap
+- github-pages
 - jekyll-seo-tag
+- jekyll-github-metadata
+repository: me/super-cool-project
+
 sass:
   sass_dir: css/_sass
   style: compressed
