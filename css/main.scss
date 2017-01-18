@@ -62,6 +62,16 @@ html {
 body {
 	@extend %extend_1;
 }
+a {
+	color: $teal;
+	#nav-logo {
+		h4{
+			color: $color_tuatara_approx;
+			text-decoration: none;
+			font-weight: 300;
+		}
+	}
+}
 .no-padding {
 	padding-left: 0;
 	padding-right: 0;
@@ -111,6 +121,8 @@ h5 {
 p {
     @extend %extend_1;
     font-size: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 li {
     font-size: 18px;

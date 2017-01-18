@@ -9200,7 +9200,7 @@ d.parent(".dropdown-menu").length&&(d=d.closest("li.dropdown").addClass("active"
 // menu.js
 jQuery(document).ready(function($){
 	//if you change this breakpoint in the style.css file (or _layout.scss if you use SASS), don't forget to update this value as well
-	var MQL = 1170;
+	var MQL = 0;
 
 	//primary navigation slide-in effect
 	if($(window).width() > MQL) {
