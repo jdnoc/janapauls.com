@@ -16,10 +16,11 @@
     <nav>
         <ul class="box-primary-nav">  
             <li class="box-label">Menu</li>
-            <li><a href="{{ 'index.html' | absolute_url }}">Home</a></li>
-            <li><a href="{{ 'about.html' | absolute_url }}">About</a></i></li>
-            <li><a href="{{ 'contact.html' | absolute_url }}">Contact</a></li>
-
+            {% for page in site.pages %}
+            {% if page.layout == "page" %}
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% endif %}
+            {% endfor %}
             <li class="box-label">Social</li>
 
             <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>

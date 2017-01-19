@@ -55,3 +55,10 @@ ga_analytics:
 markdown: kramdown
 kramdown:
   imput: GFM
+about:
+  image:
+  subtitle: Serving the kingdom daily!
+  text: This is the about me paragraph!
+contact:
+  subtitle: I can't wait to hear from you!
+  text: I'll try to get back to you as soon as I can.
