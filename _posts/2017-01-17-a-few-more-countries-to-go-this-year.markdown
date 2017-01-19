@@ -11,6 +11,8 @@ subtitle: Never slow down, finish the year with a bang!
 image: "/uploads/0e2df024-725b-403e-90e6-706bd6059f0f.png"
 ---
 
+## I'm excited
+
 I'm excited to tell you about my upcoming itinerary for the rest of this year and a couple of things about the last months.
 
 * November 11-20: Juba, South Sudan
