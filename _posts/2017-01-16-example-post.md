@@ -10,6 +10,8 @@ subtitle: This is an example post!
 image: "/uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png"
 ---
 
+## Heading Size 2
+
 This is an example of what a post can look like!
 
 # Heading Size 1
