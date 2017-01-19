@@ -22,7 +22,7 @@ This is an example of what a post can look like!
 
 Here is an image: 
 
-![0e22d094-85d5-48a8-8dad-48499f09d3f2.png](/uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png)
+![4b068803-93e8-4ab6-9f61-0bc415c5920a.jpg](/uploads/4b068803-93e8-4ab6-9f61-0bc415c5920a.jpg)
 
 Here is a list:
 
