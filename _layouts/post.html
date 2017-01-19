@@ -16,38 +16,39 @@ layout: default
 </style>
 
 <div class="top-bar">
-    <h1>{{ page.title }}</h1>
-    <p>{{ page.subtitle }}</p>
+    <div class="container">
+        <div class="col-xs-10 col-xs-offset-1">
+            <h1>{{ page.title }}</h1>
+            <h3>{{ page.subtitle }}</h3>
+        </div>
+    </div>
 </div>
+
 <div class="container main-container">
-    <div class="col-md-12">
-            <h1 class="text-uppercase">{{ page.title }}</h3>
-            <h2>{{ page.subtitle }}</h5>
-            <div class="h-30"></div>
-        </div>
-        <div class="col-md-9">
-            <style>
-                img {
-                    width: 100%;
-                }
-            </style>
-            {{ content }}
-        </div>
-        <div class="col-md-3">
-            <ul class="cat-ul">
-                {% for item in page.tags %}
-                <li><i class="ion-ios-circle-filled"></i>{{ item }}</li>
-                {% endfor %}
-            </ul>
-            <div class="h-10"></div>
-            <h4>Share</h4>
-            <ul class="social-ul">
-                <li class="box-social"><a href="#0"><i class="ion-social-facebook"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-instagram-outline"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-twitter"></i></a></li>
-                <li class="box-social"><a href="#0"><i class="ion-social-dribbble"></i></a></li>
-            </ul>
-        </div>
+    <div class="col-md-9">
+        <style>
+            img {
+                width: 100%;
+            }
+        </style>
+        {{ content }}
+    </div>
+    <div class="col-md-3">
+        <div class="h-30"></div>
+        <ul class="cat-ul">
+            {% for item in page.tags %}
+            <li><i class="ion-ios-circle-filled"></i>{{ item }}</li>
+            {% endfor %}
+        </ul>
+        <div class="h-10"></div>
+        <h4>Share</h4>
+        <ul class="social-ul">
+            <li class="box-social"><a href="#0"><i class="ion-social-facebook"></i></a></li>
+            <li class="box-social"><a href="#0"><i class="ion-social-instagram-outline"></i></a></li>
+            <li class="box-social"><a href="#0"><i class="ion-social-twitter"></i></a></li>
+            <li class="box-social"><a href="#0"><i class="ion-social-dribbble"></i></a></li>
+        </ul>
+    </div>
 </div>
 
  <!-- main-container -->

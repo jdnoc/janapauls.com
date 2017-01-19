@@ -34,53 +34,33 @@ header-titles:
 <section>
 <div class="posts-div">
     <div class="posts">
-        <div class="no-padding posts_container">{% for post in site.posts %}{% if forloop.index0 == 3 or forloop.index0 == 6 %}
+        <div class="no-padding posts_container">{% for post in site.posts %}
             <style>
-            #p{{ forloop.index0 }} {
+            .post_{{ forloop.index0 }} {
                 width: 100%;
                 padding-bottom: 100%;
                 background-image: url('{{ post.image }}');
                 background-size: cover;
+                background-position: center center;
+            }
+            @media only screen and (max-width: 768px) {
+                .post_{{ forloop.index0 }} {
+                    background-attachment: fixed;
+                }
             }
             </style>
-            <div class="col-md-6 col-sm-12">
-                <div class="square">
-                    <a href="{{ post.url }}" class="posts_item" id="p{{forloop.index0}}">
-                        <!--<img src="{{ post.image }}" alt="{{ post.title }}"/>-->
-                        <div class="posts_item_hover">
-                            <div class="posts-border clearfix">
-                                <div class="item_info">
-                                    <span>{{ post.title }}</span>
-                                    <em>{{ post.subtitle }}</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            </div>{% else %}
             <div class="col-md-3 col-sm-6">
-                <style>
-                #p{{ forloop.index0 }} {
-                    width: 100%;
-                    padding-bottom: 100%;
-                    background-image: url('{{ post.image }}');
-                    background-size: cover;
-                }
-                </style>
-                <div class="square">
-                    <a href="{{ post.url }}" class="posts_item" id="p{{forloop.index0}}">
-                        <!--<img src="{{ post.image }}" alt="{{ post.title }}"/>-->
-                        <div class="posts_item_hover">
-                            <div class="posts-border clearfix">
-                                <div class="item_info">
-                                    <span>{{ post.title }}</span>
-                                    <em>{{ post.subtitle }}</em>
-                                </div>
+                <a href="{{ post.url }}" class="posts_item post_{{forloop.index0}}">
+                    <div class="posts_item_hover">
+                        <div class="posts-border clearfix">
+                            <div class="item_info">
+                                <span>{{ post.title }}</span>
+                                <em>{{ post.subtitle }}</em>
                             </div>
                         </div>
-                    </a>
-                </div>
-            </div>{% endif %}{% endfor %}
+                    </div>
+                </a>
+            </div>{% endfor %}
         </div>
         <!-- end posts_container -->
     </div>
