@@ -17,7 +17,7 @@
         <ul class="box-primary-nav">  
             <li class="box-label">Menu</li>
             {% for page in site.pages %}
-            {% if page.layout == "pages" %}
+            {% if page.layout == "page" %}
             <li><a href="{{ page.url }}">{{ page.title }}</a></li>
             {% endif %}
             {% endfor %}

@@ -21,9 +21,9 @@ defaults:
     - ''
 - scope:
     path: ''
-    type: pages
+    type: page
   values:
-    layout: pages
+    layout: page
     title: ''
     subtitle: ''
     image: ''

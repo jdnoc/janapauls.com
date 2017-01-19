@@ -1,6 +1,7 @@
 ---
 title: I Just Got Saved
 date: 2017-01-19 20:49:00 Z
+layout: page
 ---
 
 ## Your Life Will Never Be the Same
