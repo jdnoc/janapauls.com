@@ -1,10 +1,9 @@
 ---
-title: Jana Pauls
-layout: default
-image: 
+title: Home
 header-titles:
 - Jana Pauls.
 - Evangelist.
+layout: default
 ---
 
 {% include index.html %}
