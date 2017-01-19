@@ -10,6 +10,7 @@ subtitle: Greater things in 2017!
 image: "/uploads/d48a43aa-72b0-49e8-98ca-793bb4e690bd.jpg"
 ---
 
+## Happy New Year!
 
 Happy New Year! I hope you had a wonderful Christmas and cross over to 2017, but if not, don't worry, just leave the past in the past and believe God for an amazing year!
 The apostle Paul says in **Philippians 3:13**:
