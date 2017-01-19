@@ -5,6 +5,7 @@
             <div id="nav-logo"><a href="index.html">JANA PAULS MINISTRIES INTL.</a></div>
         </div>
         <!-- box-nav -->
+        <a href=""><button class="btn btn-square give-button">G I V E</button></a>
         <a class="box-primary-nav-trigger" href="#0">
             <span class="box-menu-text">Menu</span><span class="box-menu-icon"></span>
         </a>
@@ -13,18 +14,19 @@
     
     <!-- nav -->
     <nav>
-        <ul class="box-primary-nav">
-            <li class="box-label">About me</li>
-            
-            <li><a href="index.html">Intro</a></li>
-            <li><a href="about.html">About</a></i></li>
-            <li><a href="contact.html">Contact</a></li>
+        <ul class="box-primary-nav">  
+            <li class="box-label">Menu</li>
+            <li><a href="{{ 'index.html' | absolute_url }}">Home</a></li>
+            <li><a href="{{ 'about.html' | absolute_url }}">About</a></i></li>
+            <li><a href="{{ 'contact.html' | absolute_url }}">Contact</a></li>
 
-            <li class="box-label">Follow me</li>
+            <li class="box-label">Social</li>
 
             <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
             <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
             <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
+            <li class="box-label">Support</li>
+            <li class="box-label"><button class="btn btn-square btn-lg btn-white">Give Now</button></li>
         </ul>
     </nav>
     <!-- end nav -->  
