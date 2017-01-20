@@ -1,0 +1,13 @@
+{
+    "name": "Jana Pauls Ministries Intl.",
+    "icons": [
+        {
+            "src": "/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#39cccc",
+    "background_color": "#39cccc",
+    "display": "standalone"
+}
