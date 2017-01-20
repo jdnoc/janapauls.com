@@ -26,7 +26,7 @@
 <section>
 <div class="posts-div">
     <div class="posts">
-        <div class="no-padding posts_container">{% for post in site.posts %}
+        <div class="no-padding posts_container">{% for post in site.posts limit:8  %}
             <style>
             .post_{{ forloop.index0 }} {
                 width: 100%;

@@ -8,3 +8,10 @@ navigation_weight:
 layout: pages
 ---
 
+# Support The Mission
+
+I would like to thank my partners, friends, pastors and supporters for every prayer, financial seed and encouraging word.
+
+It is very precious to me and I do not take it for granted.  
+
+If if you would like to be a part of what the Lord is doing you can sow a seed online. 
