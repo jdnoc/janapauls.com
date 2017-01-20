@@ -4,7 +4,7 @@ header-titles:
 - Jana Pauls.
 - Evangelist.
 layout: default
-navigation_weight:
+navigation_weight: 
 ---
 
 {% include index.html %}
