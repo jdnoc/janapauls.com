@@ -870,6 +870,7 @@ footer {
 	list-style: none;
 	display: inline-block;
 	padding-left: 0;
+	margin: 20px 0;
 	li {
 		margin: 0 10px;
 		float: left;
@@ -1220,6 +1221,7 @@ textarea:focus {
 
 #about {
 	margin-top: 30px;
+	background-color: $teal;
 }
 
 .container-fluid {
