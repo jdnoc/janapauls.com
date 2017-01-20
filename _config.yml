@@ -31,6 +31,18 @@ defaults:
     subtitle: ''
     image: ''
     navigation_weight: 
+- scope:
+    path: ''
+    type: media
+  values:
+    layout: media
+    image: 
+    video_id:
+    - none
+    audio_id:
+    - none
+    verses:
+    - none
 description: Follow what God is doing in the nations through one surrendered life.
 email: gerssian@gmail.com
 baseurl: 

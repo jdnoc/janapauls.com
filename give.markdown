@@ -8,7 +8,7 @@ navigation_weight:
 layout: pages
 ---
 
-# Support The Mission
+## Support The Mission
 
 I would like to thank my partners, friends, pastors and supporters for every prayer, financial seed and encouraging word.
 

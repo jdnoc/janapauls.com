@@ -1,0 +1,93 @@
+---
+layout: page
+---
+
+<div class="container">
+    <div class="col-sm-12">
+      <h1 itemprop="name headline">{{ page.title }}</h1>
+      <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    </div>
+
+    <div class="col-sm-12 media">
+      <!-- <h2>Video</h2> -->
+      {% if page.video_id[0] != "none" %}
+        {% for video_id in page.video_id %}
+        <h2>Video</h2>
+        <div>
+          <iframe src='https://www.youtube.com/embed/{{ video_id }}?autoplay=0&showinfo=0&autohide=1&wmode=opaque'></iframe>
+            <!-- <img src="http://img.youtube.com/vi/{{ page.video_id }}/maxresdefault.jpg" alt="" /> -->
+        </div>
+        {% endfor %}
+      {% endif %}
+      {% if page.audio_id[0] != "none" %}
+        {% for audio_id in page.audio_id %}
+        <div>
+          <h2>Audio</h2>
+          <!-- <iframe width="100%" height="160" src="{{ page.audio_url }}/widget" frameborder="0"></iframe> -->
+          <audio controls="controls">
+            Your browser does not support the <code>audio</code> element.
+            <source src="https://a.clyp.it/{{ page.audio_id }}.mp3" type="audio/mp3">
+          </audio>
+        </div>
+        {% endfor %}
+      {% endif %}
+    </div>
+    {% if page.verses[0] != "none" %}
+    <div class="col-sm-12">
+        <h2>Key Verses</h2>
+        {% for item in page.verses %}
+        <a class="rtBibleRef" href="http://biblia.com/bible/nkjv/{{ item }}" data-reference="{{ item }}" data-version="nkjv" data-purpose="bible-reference" target="_blank"><button class="btn btn-xl-dark">{{ item }}</button></a>
+        {% endfor %}
+    </div>
+    {% endif %}
+    <div class="col-sm-12">
+      <hr>
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+      <hr>
+    </div>
+    {% if page.audio_id[0] != "none" %}
+    <div class="col-sm-6 ">
+      <div class="share-page">
+        <h3>Download</h3>
+        <a href="https://a.clyp.it/{{ page.audio_id }}.mp3" download="{{ page.title }}.mp3"><button class="btn btn-xl-dark" type="button" name="button">Right-click<br>'Save link as...'</button></a>
+      </div>
+    </div>
+    <div class="col-sm-6 ">
+    {% else %}
+    <div class="col-sm-12 ">
+    {% endif %}
+
+      <div class="share-page">
+          <h3>Share</h3>
+          <a href="https://facebook.com/sharer.php?u={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><button class="btn btn-xl-dark" name="button"><i class="fa fa-facebook" aria-hidden="true"></i></button></a>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter"><button class="btn btn-xl-dark" name="button"><i class="fa fa-twitter" aria-hidden="true"></i></button></a>
+          <a href="mailto:?subject=River Rochester - {{ page.title }}&amp;body=Check out this message from River Rochester: {{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" title="Share with Email"><button class="btn btn-xl-dark" name="button"><i class="fa fa-envelope" aria-hidden="true"></i></button></a>
+      </div>
+    </div>
+
+    <div class="col-sm-12 ">
+        <div id="disqus_thread"></div>
+        <script>
+
+        /**
+         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+        /*
+        var disqus_config = function () {
+            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() {
+            var d = document, s = d.createElement('script');
+            s.src = '//riverrochester.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+    </div>
+</div>
