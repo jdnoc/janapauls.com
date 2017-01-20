@@ -51,7 +51,6 @@ gems:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-seo-tag
-repository: me/super-cool-project
 sass:
   sass_dir: css/_sass
   style: compressed
