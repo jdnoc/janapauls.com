@@ -65,8 +65,6 @@ You can watch my Facebook video update from Brussels now on [YouTube](http://you
 
 ![618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg](/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg)
 
-![618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg](/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg)
-
 ![315fe702-0377-4d6c-97ff-9a62f73f5fdd.jpeg](/uploads/315fe702-0377-4d6c-97ff-9a62f73f5fdd.jpeg)
 
 
