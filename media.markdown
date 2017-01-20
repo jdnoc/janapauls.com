@@ -6,3 +6,4 @@ image: "/uploads/731dab33-da51-4ddd-bd86-df09c4d00790.jpeg"
 navigation_weight: 4
 ---
 
+{% include media.html %}
