@@ -5,6 +5,8 @@ tags:
 - May
 - Metro Child Ministries
 - New York
+subtitle: Metro Child Ministries
+image: "/uploads/76c6c143-b8eb-4fb2-9415-b6735772cd11.jpg"
 ---
 
 In the beginning of the moth of May I was invited to speak for Pastor Bill Wilson to his staff and Interns at [Metro Child Ministries](http://www.metroworldchild.org/?_ga=1.143844028.84859438.1464789981) in Brooklyn New York. He has impacted my life greatly as a teenager when he came to preach at a youth conference in Germany and I was beyond excited when he asked me to preach about answering the call of God. A big part of his staff and interns are actually from Germany and Switzerland so the message hit close to home for them.
