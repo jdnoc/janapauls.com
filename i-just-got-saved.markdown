@@ -12,5 +12,5 @@ navigation_weight: 2
 You've come to the right place! These are the next steps you should follow:
 
 1. Step One
-2. Step One
-3. Step One
+2. Step Two
+3. Step Three
