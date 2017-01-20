@@ -16,9 +16,10 @@
     <nav>
         <ul class="box-primary-nav">  
             <li class="box-label">Menu</li>
-            {% for page in site.pages %}
-            {% if page.layout == "page" %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+            {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
+            {% for p in navigation_pages %}
+            {% if p.navigation_weight %}
+                    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
             {% endif %}
             {% endfor %}
             <li class="box-label">Social</li>

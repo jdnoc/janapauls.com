@@ -21,12 +21,13 @@ defaults:
     - ''
 - scope:
     path: ''
-    type: page
+    type: pages
   values:
-    layout: page
+    layout: pages
     title: ''
     subtitle: ''
     image: ''
+    navigation_weight: 1
 description: Follow what God is doing in the nations through one surrendered life.
 email: gerssian@gmail.com
 baseurl: 
