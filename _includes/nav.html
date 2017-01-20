@@ -19,7 +19,7 @@
             {% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %}
             {% for p in navigation_pages %}
             {% if p.navigation_weight %}
-                    <li><a href="{{ p.url }}"><button class="btn btn-lg btn-block btn-square btn-white">{{ p.title }}</button></a></li>
+                    <li><a href="{{ p.url }}">{{ p.title }}</a></li>
             {% endif %}
             {% endfor %}
             <li class="box-label">Social</li>
@@ -29,6 +29,7 @@
             <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
             <li class="box-label">Support</li>
             <a href="{{ 'give.html' | absolute_url }}"><button class="btn btn-lg btn-block btn-square btn-white">G I V E</button></a></li>
+
         </ul>
     </nav>
     <!-- end nav -->  
