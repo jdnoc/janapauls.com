@@ -60,7 +60,7 @@ markdown: kramdown
 kramdown:
   imput: GFM
 about:
-  image: "/uploads/download.jpg"
+  image: "/uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png"
   subtitle: Serving the kingdom daily!
   text: This is the about me paragraph!
 contact:
