@@ -1,6 +1,6 @@
 ---
 title: Winning souls in Thessaloniki and Helsinki!
-date: 2016-02-19 16:31:00 Z
+date: 2015-11-30 16:31:00 Z
 tags:
 - Thessaloniki Greece
 - Winning souls
