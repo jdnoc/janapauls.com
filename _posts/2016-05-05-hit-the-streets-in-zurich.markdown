@@ -1,6 +1,10 @@
 ---
 title: Hit the streets in Zürich
 date: 2016-05-05 15:56:00 Z
+tags:
+- Zurich
+- Warsaw
+- Istanbul
 subtitle: My first visit to Warsaw and a weekend in Istanbul.
 image: "/uploads/a58bee47-10df-433b-88b5-8cdd75cfceb5.jpg"
 ---
