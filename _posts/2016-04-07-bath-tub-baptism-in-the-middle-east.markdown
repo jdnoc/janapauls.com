@@ -1,6 +1,11 @@
 ---
-title: Bath tub baptism in the Middle East
+title: Bath Tub Baptism in the Middle East
 date: 2016-04-07 16:06:00 Z
+tags:
+- Middle East
+- Soulwinning
+- Terror Attacks
+- Baptism
 subtitle: " Soulwinning after terror attacks"
 image: "/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg"
 ---
