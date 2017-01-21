@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Jana Pauls
 header-titles:
 - Jana Pauls.
 - Evangelist.
