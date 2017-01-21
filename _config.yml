@@ -65,7 +65,7 @@ gems:
 - jekyll-seo-tag
 sass:
   sass_dir: css/_sass
-  style: compressed
+  style: uncompressed
 ga_analytics: 
 markdown: kramdown
 kramdown:
