@@ -4,7 +4,7 @@ layout: pages
 
 <div class="container">
     <div class="col-sm-12">
-      <h1 itemprop="name headline">{{ page.title }}</h1>
+      <h2 itemprop="name headline">{{ page.title }}</h2>
       <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </div>
 
@@ -12,7 +12,7 @@ layout: pages
       <!-- <h2>Video</h2> -->
       {% if page.video_id[0] != "none" %}
         {% for video_id in page.video_id %}
-        <h2>Video</h2>
+        <h3>Video</h3>
         <div>
           <iframe src='https://www.youtube.com/embed/{{ video_id }}?autoplay=0&showinfo=0&autohide=1&wmode=opaque'></iframe>
             <!-- <img src="http://img.youtube.com/vi/{{ page.video_id }}/maxresdefault.jpg" alt="" /> -->
