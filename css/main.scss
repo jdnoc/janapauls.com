@@ -2,7 +2,7 @@
 ---
 
 //colors
-$teal: rgba(57, 204, 204, 1);
+$copper: rgba(200, 117, 51, 1);
 $color_tuatara_approx: rgba(57, 57, 57, 1);
 $color_wild_sand_approx: rgba(245, 245, 245, 1);
 $white_95: rgba(255, 255, 255, 0.95);
@@ -16,12 +16,12 @@ $color_mid_gray_approx: rgba(96, 96, 110, 1);
 $black_80: rgba(0, 0, 0, .8);
 $color_mine_shaft_approx: rgba(51, 51, 51, 1);
 $color_celeste_approx: rgba(204, 204, 204, 1);
-$teal_80: rgba(57, 204, 204, 0.8);
+$copper_80: rgba(200, 117, 51 , 0.8);
 $color_tapa_approx: rgba(119, 119, 119, 1);
 $color_fuscous_gray_approx: rgba(85, 85, 85, 1);
 $black_10: rgba(0, 0, 0, .1);
 $color_star_dust_approx: rgba(154, 154, 154, 1);
-$color_selective_teal_approx: rgba(47, 196, 204, 1);
+$color_selective_copper_approx: rgba(180, 117, 51, 1);
 
 //fonts
 $font_0: 'Raleway';
@@ -48,7 +48,7 @@ $font_1: 'sans-serif';
 	height: 100%;
 	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 	border-radius: 50%;
-	background-color: $teal;
+	background-color: $copper;
 	opacity: 0.6;
 	position: absolute;
 	top: 0;
@@ -103,7 +103,7 @@ body {
 }
 a {
 	-webkit-transition: all .3s;
-	color: $teal;
+	color: $copper;
 	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
 	transition: all .3s;
 }
@@ -117,7 +117,7 @@ a {
 	height: 10px;
 }
 .color {
-	color: $teal;
+	color: $copper;
 	font-size: 11px;
 }
 h1 {
@@ -129,13 +129,13 @@ h2 {
     color: $color_tuatara_approx;
 }
 h3 {
-	color: $teal;
+	color: $copper;
 }
 h4 {
 	color: $color_tuatara_approx;
 }
 h5 {
-	color: $teal;
+	color: $copper;
 }
 p {
     @extend %extend_1;
@@ -239,7 +239,7 @@ li {
 	&.is-fixed {
 		position: fixed;
 		top: -80px;
-		background-color: $teal;
+		background-color: $copper;
 		-webkit-transition: -webkit-transform 0.3s;
 		//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
 		transition: transform 0.3s, -webkit-transform 0.3s;
@@ -250,7 +250,7 @@ li {
 		transform: translate3d(0, 100%, 0);
 	}
 	&.menu-is-open {
-		background-color: $teal;
+		background-color: $copper;
 		color: white;
 	}
 }
@@ -391,7 +391,7 @@ li {
 		}
 	}
 	.box-label {
-		color: $teal;
+		color: $copper;
 		text-transform: uppercase;
 		font-weight: 300;
 		font-size: 20px;
@@ -419,12 +419,12 @@ li {
 			-webkit-transition: opacity .3s 0s, visibility 0s 0s;
 			//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
 			transition: opacity .3s 0s, visibility 0s 0s;
-			background-color: $teal;
+			background-color: $copper;
 			opacity: 1;
 			color: $white;
 		}
 		&:focus {
-			background-color: $teal;
+			background-color: $copper;
 			opacity: 1;
 			color: $white;
 		}
@@ -453,15 +453,14 @@ li {
 		color: $color_mine_shaft_approx;
 		line-height: 1.7;
 	}
-	background: rgba(76,76,76,1);
-	background: -moz-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(57,204,204,1) 0%, rgba(250,250,250,1) 100%);
-	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(76,76,76,1)), color-stop(0%, rgba(57,204,204,1)), color-stop(100%, rgba(250,250,250,1)));
-	background: -webkit-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(57,204,204,1) 0%, rgba(250,250,250,1) 100%);
-	background: -o-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(57,204,204,1) 0%, rgba(250,250,250,1) 100%);
-	background: -ms-linear-gradient(-45deg, rgba(76,76,76,1) 0%, rgba(57,204,204,1) 0%, rgba(250,250,250,1) 100%);
-	background: linear-gradient(135deg, rgba(76,76,76,1) 0%, rgba(57,204,204,1) 0%, rgba(250,250,250,1) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#fafafa', GradientType=1 );
-}
+	background: rgba(200,117,51,1);
+	background: -moz-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(200,117,51,1)), color-stop(100%, rgba(255,255,255,0)));
+	background: -webkit-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
+	background: -o-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
+	background: linear-gradient(135deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c87533', endColorstr='#ffffff', GradientType=1 );}
 .mouse {
 	position: absolute;
 	width: 22px;
@@ -717,7 +716,7 @@ li {
 					opacity: 1;
 					font-size: 14px;
 					display: inline-block;
-					background-color: $teal;
+					background-color: $copper;
 					padding: 5px 20px;
 					//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 					border-radius: 25px;
@@ -789,7 +788,7 @@ li {
 			em {
 				font-style: normal;
 				display: inline-block;
-				background-color: $teal;
+				background-color: $copper;
 				padding: 5px 20px;
 				//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 				border-radius: 25px;
@@ -827,7 +826,7 @@ footer {
 	right: 10px;
 	text-align: center;
 	color: $white;
-	background: $teal_80;
+	background: $copper_80;
 	visibility: hidden;
 	opacity: 0;
 	-webkit-transition: opacity .3s 0s, visibility 0s .3s;
@@ -934,7 +933,7 @@ footer {
 		transition: all .2s ease-in-out;
 		z-index: 1;
 		&.active {
-			color: $teal;
+			color: $copper;
 			font-size: 10px;
 			top: 0;
 			left: 5px;
@@ -976,7 +975,7 @@ footer {
 		transition: all .2s ease-in-out;
 		z-index: 1;
 		&.active {
-			color: $teal;
+			color: $copper;
 			font-size: 10px;
 			top: 0;
 			left: 5px;
@@ -991,7 +990,7 @@ footer {
 		height: 30px;
 		width: 30px;
 		display: inline-block;
-		background: $teal;
+		background: $copper;
 		text-align: center;
 		line-height: 33px;
 		margin-right: 10px;
@@ -1004,7 +1003,7 @@ footer {
 	}
 }
 .btn-box {
-	background: $teal;
+	background: $copper;
 	padding: 10px 50px;
 	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 	border-radius: 0;
@@ -1014,11 +1013,11 @@ footer {
 	letter-spacing: 2px;
 	font-weight: 500;
 	&:hover {
-		background: $color_selective_teal_approx;
+		background: $color_selective_copper_approx;
 		color: $white;
 	}
 	&:focus {
-		background: $color_selective_teal_approx;
+		background: $color_selective_copper_approx;
 		color: $white;
 	}
 }
@@ -1027,7 +1026,7 @@ footer {
 	list-style: none;
 	li i {
 		margin-right: 10px;
-		color: $teal;
+		color: $copper;
 	}
 }
 @media(max-width: 991px) {
@@ -1104,7 +1103,7 @@ img {
 	max-width: 100%;
 }
 b i:last-child {
-	color: $teal !important;
+	color: $copper !important;
 }
 .no-js .box-words-wrapper b {
 	opacity: 0;
@@ -1157,7 +1156,7 @@ b i:last-child {
 			}
 			&.active {
 				margin-left: 0;
-				background-color: $teal;
+				background-color: $copper;
 				padding: 0 20px;
 				color: $white;
 				//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
@@ -1188,8 +1187,8 @@ textarea:focus {
 	//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
 	transition: all 0.2s;
 	&:hover {
-		border-color: $teal;
-		color: $teal;
+		border-color: $copper;
+		color: $copper;
 		background-color: white;
 		-webkit-transition: all 0.2s;
 		//Instead of the line below you could use @include transition($transition-1, $transition-2, $transition-3, $transition-4, $transition-5, $transition-6, $transition-7, $transition-8, $transition-9, $transition-10)
@@ -1227,7 +1226,7 @@ textarea:focus {
 }
 
 #about {
-	background-color: $teal;
+	background-color: $copper;
 }
 
 
