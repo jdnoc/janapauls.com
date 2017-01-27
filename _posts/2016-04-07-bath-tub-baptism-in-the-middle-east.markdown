@@ -7,7 +7,7 @@ tags:
 - Terror Attacks
 - Baptism
 subtitle: " Soulwinning after terror attacks"
-image: "/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg"
+image: "/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpg"
 ---
 
 Thank you for taking interest in the ministry the Lord has entrusted to me. Some of the most amazing opportunities have opened up to me this year and I'm excited to tell you about a few more from the last weeks.
