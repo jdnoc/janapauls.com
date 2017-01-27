@@ -1,4 +1,5 @@
 var jimp = require("gulp-jimp-resize");
+const imagemin = require('gulp-imagemin');
 var gulp = require('gulp');
  
 gulp.task('images', function() {
@@ -14,5 +15,7 @@ gulp.task('images', function() {
 });
 
 gulp.task('default', function() {
-  // place code for your default task here
+  gulp.src('_uploads/*')
+      .pipe(imagemin())
+      .pipe(gulp.dest('_uploads/'))
 });
