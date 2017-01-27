@@ -65,10 +65,10 @@ body {
 
 #nav-logo a {
 	color: $color_tuatara_approx;
-	font-size: 22px;
 	text-transform: uppercase;
+	font-weight: 700;
+	display: inline-block;
 	text-decoration: none;
-	font-weight: 300;
 }
 @media only screen and (max-width: 580px) {
 	#nav-logo a  {
