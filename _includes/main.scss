@@ -454,14 +454,7 @@ li {
 		color: $color_mine_shaft_approx;
 		line-height: 1.7;
 	}
-	background: rgba(200,117,51,1);
-	background: -moz-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
-	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(200,117,51,1)), color-stop(100%, rgba(255,255,255,0)));
-	background: -webkit-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
-	background: -o-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
-	background: -ms-linear-gradient(-45deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
-	background: linear-gradient(135deg, rgba(200,117,51,1) 0%, rgba(255,255,255,0) 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c87533', endColorstr='#ffffff', GradientType=1 );}
+}
 .mouse {
 	position: absolute;
 	width: 22px;
