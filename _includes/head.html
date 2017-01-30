@@ -9,4 +9,11 @@
 <link rel="mask-icon" href="/safari-pinned-tab.svg" color="rgba(232, 84, 84, 1)">
 <meta name="theme-color" content="rgba(232, 84, 84, 1)">
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+{% if site.ga_analytics %}
+  <script>
+    window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+    ga('create','{{ site.ga_analytics }}','auto');ga('send','pageview')
+  </script>
+  <script src="https://www.google-analytics.com/analytics.js" async defer></script>
+{% endif %}
 {% seo %}
