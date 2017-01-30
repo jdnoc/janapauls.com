@@ -44,12 +44,10 @@ defaults:
     verses:
     - none
 description: Follow what God is doing in the nations through one surrendered life.
-email: gerssian@gmail.com
-baseurl: 
-url: https://janapauls.com
-permalink: none
-twitter:
-  username: gerssian
+about:
+  image: "/uploads/097d1fd7-9e58-451b-b44a-380820836096.jpg"
+  subtitle: Serving the kingdom daily!
+  text: This is the about me paragraph!
 social:
   name: Jana Pauls
   links:
@@ -57,6 +55,19 @@ social:
   - https://www.facebook.com/gerssian
   - https://instagram.com/gerssian
   - https://instagram.com/janapauls
+email: gerssian@gmail.com
+contact:
+  subtitle: I can't wait to hear from you!
+  text: I'll try to get back to you as soon as I can.
+give:
+  subtitle: Support The Mission
+  text: If you would like to be a part of what the Lord is doing you can sow a seed
+    online.
+baseurl: 
+url: https://janapauls.com
+permalink: none
+twitter:
+  username: gerssian
 gems:
 - jekyll-feed
 - jekyll-assets
@@ -70,14 +81,3 @@ ga_analytics: UA-71688221-6
 markdown: kramdown
 kramdown:
   imput: GFM
-about:
-  image: "/uploads/097d1fd7-9e58-451b-b44a-380820836096.jpg"
-  subtitle: Serving the kingdom daily!
-  text: This is the about me paragraph!
-contact:
-  subtitle: I can't wait to hear from you!
-  text: I'll try to get back to you as soon as I can.
-give:
-  subtitle: Support The Mission
-  text: If you would like to be a part of what the Lord is doing you can sow a seed
-    online.
