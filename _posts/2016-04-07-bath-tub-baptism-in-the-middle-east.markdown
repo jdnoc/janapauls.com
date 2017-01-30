@@ -63,7 +63,7 @@ You can watch my Facebook video update from Brussels now on [YouTube](http://you
 
 ![acd9cf8e-069e-4bea-85b5-dbd2574f827d.jpeg](/uploads/acd9cf8e-069e-4bea-85b5-dbd2574f827d.jpeg)
 
-![618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg](/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg)
+![618a34bb-8506-4554-aa5f-3ba93b232b99.jpeg](/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpg)
 
 ![315fe702-0377-4d6c-97ff-9a62f73f5fdd.jpeg](/uploads/315fe702-0377-4d6c-97ff-9a62f73f5fdd.jpeg)
 

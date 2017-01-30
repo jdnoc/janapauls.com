@@ -45,20 +45,47 @@ layout: default
             }
         </style>
         {{ content }}
+        {% include comments.html %}
     </div>
     <div class="col-md-3">
         <div class="h-30"></div>
+        <h3>Tags</h3>
         <ul class="cat-ul">
             {% for item in page.tags %}
             <li><i class="ion-ios-circle-filled"></i>{{ item }}</li>
             {% endfor %}
         </ul>
         <div class="h-10"></div>
-        <h4>Share</h4>
         <ul class="social-ul">
-            <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
-            <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
-            <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
+            <li class="box-social"><h4>Share:</h4></li>
+            <li class="box-social"><a href="https://facebook.com/sharer.php?u={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="ion-social-facebook"></i></a></li>
+            <li class="box-social"><a href="mailto:?subject=Jana Pauls - {{ page.title }}&amp;body=Check out this message from Jana Pauls: {{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" title="Share with Email"><i class="ion-email"></i></a></li>
+            <li class="box-social"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="ion-social-twitter"></i></a></li>        
         </ul>
+        <div class="col-md-12 container-fluid text-center">
+            <h3>Subscribe to the Newletter</h3>
+            <form action="#" method="post">
+                <div class="row">
+                    <div class="col-xs-8 col-xs-offset-2 col-md-12 col-md-offset-0">
+                        <div class="input-contact">
+                            <input type="text" name="email">
+                            <span>your email</span>
+                        </div>
+                        <a href="#" class="btn btn-square btn-lg">Subscribe</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-12 container-fluid">
+        <hr>
+            <h3 class="page-heading">Other Posts</h3>
+            <ul class="cat-ul">
+                {% for post in site.posts limit: 5%}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
     </div>
 </div>
