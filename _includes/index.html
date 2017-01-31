@@ -1,7 +1,4 @@
-<!--<div class="tv">
-    <div class="screen mute" id="tv"></div>
-</div>-->
-<!-- box-intro -->
+<div class="container-fluid">
 <style>
 .box-intro { 
     background-size: cover;
@@ -70,4 +67,24 @@
     <!-- posts -->
 </div>
 </section>
-{% include about.html %}
+</div>
+
+<section id="about">
+    <div class="container main-container clearfix"> 
+        <div class="col-md-6">
+           <h2 class="uppercase text-center">{{site.title}}</h2>
+           <h4 class="text-center">{{ site.about.subtitle }}</h4>
+            <div class="h-10"></div>
+            <p>{{ site.about.text }}</p>
+            <div class="h-10"></div>
+            <ul class="social-ul">
+            <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
+            <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
+            <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
+            </ul>
+        </div>
+        <div class="col-md-6">
+            <img src="{{ site.about.image }}" class="img-responsive" alt="{{ site.title }}" />
+        </div>
+    </div>
+</section>
