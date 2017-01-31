@@ -65,7 +65,7 @@ layout: default
             <li class="box-social"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="ion-social-twitter"></i></a></li>        
         </ul>
         <div class="col-md-12 container-fluid text-center">
-            <h3>Subscribe to the Newletter</h3>
+            <h3>Subscribe to Devotionals</h3>
             <form action="//blog.us6.list-manage.com/subscribe/post?u=dd47ccc168c795028708b2e2a&amp;id=b51706ad3b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                 <div class="row">
                     <div class="col-xs-8 col-xs-offset-2 col-md-12 col-md-offset-0">
@@ -86,11 +86,11 @@ layout: default
         </div>
         <div class="col-md-12 container-fluid">
         <hr>
-            <h3 class="page-heading">Other Posts</h3>
+            <h3 class="page-heading">Other Devotionals</h3>
             <ul class="cat-ul">
-                {% for post in site.posts limit: 5%}
+                {% for devotional in site.devotionals limit: 5%}
                 <li>
-                    <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                    <a href="{{ devotional.url | relative_url }}">{{ devotional.title | escape }}</a>
                 </li>
                 {% endfor %}
             </ul>

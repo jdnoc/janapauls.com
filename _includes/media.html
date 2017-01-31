@@ -3,20 +3,10 @@
         <div class="home text-center">
             <ul class="post-list">
             {% assign items = site.media | sort: 'date' | reverse %}
-            {% for item in items  limit:6 %}
+            {% for item in items %}
                 <li>
-                    <div class="col-md-6 col-md-offset-3">
-                    <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2>
-                    <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
-                        {% if item.video_id[0] != "none" %}
-                        <div class="thumb-crop">
-                        <a href="{{ item.url | absolute_url }}"><img src="https://img.youtube.com/vi/{{ item.video_id[0] }}/maxresdefault.jpg" alt="" /></a>
-                        </div>
-                        {% else %}
-                        <div class="thumb-crop">
-                        <a href="{{ item.url | absolute_url }}"><img src="../assets/img/logos/black-background.png" alt="" /></a>
-                        </div>
-                        {% endif %}
+                    <div class="col-md-12 text center">
+                    <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2><span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
                     </div>
                 </li>
             {% endfor %}

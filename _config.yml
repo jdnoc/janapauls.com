@@ -24,7 +24,7 @@ defaults:
     subtitle: ''
     image: ''
     tags:
-    - ''
+    - none
 - scope:
     path: ''
     type: pages
@@ -46,9 +46,21 @@ defaults:
     - none
     verses:
     - none
+- scope:
+    path: ''
+    type: devotionals
+  values:
+    layout: devotionals
+    title: ''
+    subtitle: ''
+    image: ''
+    tags:
+    - none
+    verses:
+    - none
 description: Follow what God is doing in the nations through one surrendered life.
 about:
-  image: "/uploads/097d1fd7-9e58-451b-b44a-380820836096.jpg"
+  image: ""
   subtitle: Serving the kingdom daily!
   text: This is the about me paragraph!
 social:

@@ -8,7 +8,7 @@ layout: pages
       <p><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
     </div>
 
-    <div class="col-sm-12 media">
+    <div class="col-sm-12">
       <!-- <h2>Video</h2> -->
       {% if page.video_id[0] != "none" %}
         {% for video_id in page.video_id %}
@@ -54,9 +54,9 @@ layout: pages
         <a href="https://a.clyp.it/{{ page.audio_id }}.mp3" download="{{ page.title }}.mp3"><button class="btn btn-xl-dark" type="button" name="button">Right-click<br>'Save link as...'</button></a>
       </div>
     </div>
-    <div class="col-sm-6 ">
+    <div class="col-sm-6 text-center">
     {% else %}
-    <div class="col-sm-12 ">
+    <div class="col-sm-12 text-center">
     {% endif %}
 
       <ul class="social-ul">
@@ -65,6 +65,9 @@ layout: pages
           <li class="box-social"><a href="mailto:?subject=Jana Pauls - {{ page.title }}&amp;body=Check out this message from Jana Pauls: {{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" title="Share with Email"><i class="ion-email"></i></a></li>
           <li class="box-social"><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter"><i class="ion-social-twitter"></i></a></li>        
       </ul>
+    </div>
+    <div class="col-md-12">
+        {% include comments.html %}
     </div>
 
     <!--<div class="col-sm-12 ">

@@ -1,0 +1,12 @@
+<div class="newsletter">  
+  <ul class="post-list text-center">
+    {% assign items = site.devotionals | sort: 'date' | reverse %}
+    {% for item in items %}
+      <li>
+          <div class="col-md-12 text center">
+          <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2><span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+          </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -22,12 +22,60 @@
         <h5>{{ site.description }}</h5>
         <a href="{{ 'i-just-got-saved.html' | absolute_url }}"><button class="btn btn-square btn-lg">I JUST GOT SAVED</button></a>
     </div>
-    <!--<div id="header-scroll" class="scroll">
-        <a class="page-scroll" href="#about"><span></span></a>
-    </div>-->
 </section>
-<!-- end box-intro -->
-<!-- posts div -->
+<section id="devotionals">
+    <div class="container  main-container clearfix text-center">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2>Devotionals</h2>
+                {% assign items = site.devotionals | sort: 'date' | reverse %}
+                {% for item in items  limit:1 %}
+                    <div class="col-md-12 text center">
+                    <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2><span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+                    <p>{{ item.content | strip_html | truncatewords: 50 }}</p>
+                    </div>
+                {% endfor %}
+                <a href="{{ 'devotionals.html' | absolute_url }}"><button class="btn btn-square btn-lg">View All Devotionals</button></a>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="media">
+    <div class="container-fluid text-center">
+        <div class="row">
+            <div class="col-md-6 text-center">
+                <div style="display:flex;justify-content:center;align-items:center;padding-top:40px;padding-bottom:40px;">
+                    <div>
+                        <h2>Media</h2>
+                        <div class="col-md-12 text center">
+                        {% assign items = site.media | sort: 'date' | reverse %}
+                        {% for item in items  limit:1 %}
+                            <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2><span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+                            <p>{{ item.content | strip_html | truncatewords: 50 }}</p>
+                            </div>
+                                <a href="{{ 'media.html' | absolute_url }}"><button class="btn btn-square btn-lg">View All Media</button></a>
+                            </div>
+                        {% endfor %}
+                </div>
+            </div>
+            <div class="col-md-6 text-center">
+                {% assign items = site.media | sort: 'date' | reverse %}
+                {% for item in items  limit:1 %}
+                    {% if item.video_id[0] != "none" %}
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ item.video_id[0] }}" frameborder="0" allowfullscreen></iframe>
+                    {% else %}
+                        {% if item.image %}
+                        <div class="thumb-crop">
+                            <a href="{{ item.url | absolute_url }}"><img src="{{item.image}}" alt="{{item.title}}" /></a>
+                        </div>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+{% include about.html %}
 <section>
 <div class="posts-div">
     <div class="posts">
@@ -68,23 +116,3 @@
 </div>
 </section>
 </div>
-
-<section id="about">
-    <div class="container main-container clearfix"> 
-        <div class="col-md-6">
-           <h2 class="uppercase text-center">{{site.title}}</h2>
-           <h4 class="text-center">{{ site.about.subtitle }}</h4>
-            <div class="h-10"></div>
-            <p>{{ site.about.text }}</p>
-            <div class="h-10"></div>
-            <ul class="social-ul">
-            <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
-            <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
-            <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
-            </ul>
-        </div>
-        <div class="col-md-6">
-            <img src="{{ site.about.image }}" class="img-responsive" alt="{{ site.title }}" />
-        </div>
-    </div>
-</section>

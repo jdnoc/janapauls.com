@@ -1225,7 +1225,12 @@ textarea:focus {
 }
 
 #about {
-	background-color: $copper;
+	background-color: $white;
+	color: $white;
+}
+
+#devotionals {
+	background-color: $color_wild_sand_approx;
 }
 
 
@@ -1245,4 +1250,9 @@ ul.post-list {
     margin-left: 0;
     padding-left: 0;
     list-style: none;
+}
+
+.media {
+	padding: 0px;
+	margin: 0px;
 }
