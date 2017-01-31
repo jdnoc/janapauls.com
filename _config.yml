@@ -60,7 +60,7 @@ defaults:
     - none
 description: Follow what God is doing in the nations through one surrendered life.
 about:
-  image: ""
+  image: ''
   subtitle: Serving the kingdom daily!
   text: This is the about me paragraph!
 social:
