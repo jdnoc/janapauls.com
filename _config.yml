@@ -60,9 +60,13 @@ defaults:
     - none
 description: Follow what God is doing in the nations through one surrendered life.
 about:
-  image: ''
+  image: 'uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png'
   subtitle: Serving the kingdom daily!
   text: This is the about me paragraph!
+slideshow-images:
+  - 'uploads/received_1450670428279037.jpeg'
+  - 'uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png'
+  - 'uploads/c30bb026-9a6e-4b54-aa56-8fe80c3ac04f.jpg'
 social:
   name: Jana Pauls
   links:
