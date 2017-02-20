@@ -8,7 +8,7 @@ tags:
 - Cairo Egypt
 - Juba South Sudan
 subtitle: Never slow down, finish the year with a bang!
-image: "/uploads/0e2df024-725b-403e-90e6-706bd6059f0f.png"
+image: "/uploads/IMG_0185.JPG"
 ---
 
 ## I'm excited
