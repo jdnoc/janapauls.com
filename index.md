@@ -1,6 +1,6 @@
 ---
 title: Jana Pauls
-image: "/uploads/received_1450670428279037.jpeg"
+image: "/uploads/IMG_0222.jpg"
 header-titles:
 - Jana Pauls.
 - Evangelist.
