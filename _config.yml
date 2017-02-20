@@ -60,11 +60,23 @@ defaults:
     - none
 description: Follow what God is doing in the nations through one surrendered life.
 about:
-  image: uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png
+  image: "/uploads/IMG_0005.jpg"
   subtitle: Serving the kingdom daily!
-  text: This is the about me paragraph!
+  text: "Jana left her former home Germany straight out of school at the age of 19
+    to study the Bible full time for 3 years at the River Bible Institute in Tampa
+    Florida. After experiencing the baptism in the fire of God that John the Baptist
+    talked about in Luke 3:16, her life was changed for ever.\n\"I heard the cry of
+    the nations on the inside of me and it shook me to my core. Words cannot describe
+    what it felt like. All I know is that I have to reach the lost with the life changing
+    message and saving power of the Gospel of Jesus Christ and carry that fire into
+    the churches to see revival. Especially in places where no one wants to go. Until
+    the whole world knows Jesus is Lord.\"\n\nMissionary and Evangelist Jana Pauls
+    has been in the full time ministry since graduating Bible School in 2010 traveling
+    internationally to preach and teach the Word of God and train and mobilize believers
+    to bring in the harvest of souls. \nShe has ministered in America, Europe, Africa
+    and the Middle East in a total of 21 nations so far and counting."
 slideshow-images:
-- uploads/received_1450670428279037.jpeg
+- "/uploads/IMG_0222.jpg"
 - uploads/0e22d094-85d5-48a8-8dad-48499f09d3f2.png
 - uploads/c30bb026-9a6e-4b54-aa56-8fe80c3ac04f.jpg
 social:
@@ -76,8 +88,8 @@ social:
   - https://instagram.com/janapauls
 email: gerssian@gmail.com
 contact:
-  subtitle: I can't wait to hear from you!
-  text: I'll try to get back to you as soon as I can.
+  subtitle: I would love to hear from you!
+  text: I will get back to you as soon as I can.
 give:
   subtitle: Support The Mission
   text: If you would like to be a part of what the Lord is doing you can sow a seed
