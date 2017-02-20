@@ -1,13 +1,13 @@
 ---
-title: Bath Tub Baptism in the Middle East
+title: Bath Tub Baptism in the Middle East, Soulwinning after Terror attack in Brussels
 date: 2016-04-07 16:06:00 Z
 tags:
 - Middle East
 - Soulwinning
 - Terror Attacks
 - Baptism
-subtitle: " Soulwinning after terror attacks"
-image: "/uploads/618a34bb-8506-4554-aa5f-3ba93b232b99.jpg"
+subtitle: And a youth meeting in Tampa before heading out
+image: "/uploads/0a9153ad-a4d6-43df-8cc5-f5ad25646f77.png"
 ---
 
 Thank you for taking interest in the ministry the Lord has entrusted to me. Some of the most amazing opportunities have opened up to me this year and I'm excited to tell you about a few more from the last weeks.
