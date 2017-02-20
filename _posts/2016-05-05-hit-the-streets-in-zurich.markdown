@@ -6,7 +6,7 @@ tags:
 - Warsaw
 - Istanbul
 subtitle: My first visit to Warsaw and a weekend in Istanbul.
-image: "/uploads/a58bee47-10df-433b-88b5-8cdd75cfceb5.jpg"
+image: "/uploads/fddeb5dd-c919-4b6e-b2e5-8305559d1e62.jpg"
 ---
 
 I am excited to tell you about my last few trips and the fruit that came forth for the Glory of our Lord.
