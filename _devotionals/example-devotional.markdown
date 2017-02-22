@@ -1,9 +1,9 @@
 ---
 title: Example Devotional
-layout: devotionals
 date: 2017-01-31 14:07:00 Z
 tags:
 - none
+layout: devotionals
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XEFBOLlATxI" frameborder="0" allowfullscreen></iframe>
