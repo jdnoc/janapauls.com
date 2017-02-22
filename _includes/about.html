@@ -1,7 +1,6 @@
 <style>
     #about{
-        background-image: -webkit-linear-gradient( rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url('{{ site.about.image }}');
-        background-image: linear-gradient( rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url('{{ site.about.image }}');
+        background-image: url('{{ site.about.image }}');
         -webkit-background-size: cover;
         -moz-background-size: cover;
         background-size: cover;
@@ -18,7 +17,7 @@
 </style>
 <section id="about">
     <div class="container main-container clearfix text-center"> 
-        <div class="col-md-6 col-md-offset-3">
+        <div class="col-md-6 col-md-offset-6">
            <h2 class="uppercase text-center">{{site.title}}</h2>
            <h4 class="text-center">{{ site.about.subtitle }}</h4>
             <div class="h-10"></div>

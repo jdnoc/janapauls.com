@@ -19,10 +19,27 @@
             </span>
         </h1>
         <h5>{{ site.description }}</h5>
-        <a href="{{ 'i-just-got-saved.html' | absolute_url }}"><button class="btn btn-square btn-lg">I JUST GOT SAVED</button></a>
     </div>
 </section>
 </div>
+<style>
+    #devotionals{
+        background-image: -webkit-linear-gradient( rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url('{{ site.devotionals.image }}');
+        background-image: linear-gradient( rgba(255, 255, 255, .5), rgba(255, 255, 255, .5)), url('{{ site.devotionals.image }}');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+        background-repeat: none;
+        background-attachment: fixed;
+        background-position: center center;
+    }
+    @media only screen and (max-width: 768px) {
+        #devotionals {
+        background-attachment: scroll;
+        }
+    }
+</style>
 <section id="devotionals">
     <div class="container  main-container clearfix text-center">
         <div class="row">
@@ -75,7 +92,6 @@
         </div>
     </div>
 </section>
-{% include about.html %}
 <section>
 <div class="posts-div">
     <div class="posts">
@@ -116,4 +132,3 @@
 </div>
 </section>
 </div>
-{% include contact.html %}
