@@ -1,6 +1,7 @@
 ---
 title: Are you understanding the Bible right?
 date: 2017-02-22 22:48:00 Z
+image: "/uploads/IMG_0152.JPG"
 ---
 
 Preaching the Word of God will always cause different reactions in different people, always has, always will.
