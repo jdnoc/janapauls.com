@@ -60,26 +60,17 @@
     </div>
 </section>
 <section id="media">
-    <div class="container-fluid text-center">
+    <div class="container main-container clearfix">
         <div class="row">
-            <div class="col-md-6 text-center">
-                <div style="display:flex;justify-content:center;align-items:center;padding-top:40px;padding-bottom:40px;">
-                    <div>
-                        <h2>Media</h2>
-                        <div class="col-md-12 text center">
-                        {% assign items = site.media | sort: 'date' | reverse %}
-                        {% for item in items  limit:1 %}
-                            <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2><span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
-                            <p>{{ item.content | strip_html | truncatewords: 50 }}</p>
-                            </div>
-                                <a href="{{ 'media.html' | absolute_url }}"><button class="btn btn-square btn-lg">View All Media</button></a>
-                            </div>
-                        {% endfor %}
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <div class="col-md-12 text center">
+                    <h2>Media</h2>
                 </div>
-            </div>
-            <div class="col-md-6 text-center">
+                <div class="col-md-12 text center">
                 {% assign items = site.media | sort: 'date' | reverse %}
                 {% for item in items  limit:1 %}
+                    <h2><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></h2><span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
+                    <p>{{ item.content | strip_html | truncatewords: 50 }}</p>
                     {% if item.video_id[0] != "none" %}
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ item.video_id[0] }}" frameborder="0" allowfullscreen></iframe>
                     {% else %}
@@ -90,6 +81,11 @@
                         {% endif %}
                     {% endif %}
                 {% endfor %}
+                </div>
+                <div class="col-md-12 text center">
+                    <div class="h-30"></div>
+                    <a href="{{ 'media.html' | absolute_url }}"><button class="btn btn-square btn-lg">View All Media</button></a>
+                </div>
             </div>
         </div>
     </div>

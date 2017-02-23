@@ -1,13 +1,8 @@
 <footer>
     <div class="container-fluid">
         <div class="col-md-4 col-sm-4">
+            <h2>Menu</h2>
             <ul style="padding: 0px;">{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}<li style="list-style-type:none;"><a href="{{ p.url }}">{{ p.title }}</a></li>{% endif %} {% endfor %}
-            <ul class="social-ul">
-                <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
-                <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
-                <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
-            </ul>
-
         </div>
         <div class="col-md-4 col-sm-4">
             <div class="col-md-12 container-fluid text-center">
@@ -34,6 +29,11 @@
         <div class="col-md-4 col-sm-4">
             <p class="copyright">Developed by: <a href="https://jordanmoconnor.com">Jordan O'Connor</a></p>
             <p class="copyright">© {{ site.title }} {{ site.time | date: '%Y' }}</p>
+            <ul class="social-ul">
+                <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
+                <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
+                <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
+            </ul>
         </div>
     </div>
 </footer>

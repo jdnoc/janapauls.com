@@ -1240,11 +1240,11 @@ textarea:focus {
 }
 
 #contact {
-	background-color: $color_wild_sand_approx;
+	background-color: $white;
 }
 
 #give {
-	background-color: $white;
+	background-color: $color_wild_sand_approx;
 	text-align: center;
 	button {
 		margin: 30px;
@@ -1264,4 +1264,11 @@ ul.post-list {
 .media {
 	padding: 0px;
 	margin: 0px;
+}
+
+.responsiveCal {
+    position: relative; padding-bottom: 75%; height: 50vh; overflow: hidden;
+}
+.responsiveCal iframe {
+    position: absolute; top:0; left: 0; width: 100%; height: 100%;
 }
