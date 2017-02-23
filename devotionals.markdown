@@ -8,6 +8,3 @@ layout: pages
 ---
 
 {% include devotionals.html %}
-
-REBUKE 
-How to take it and when to dish it
