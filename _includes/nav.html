@@ -1,1 +1,28 @@
-<div class="container-fluid"><!-- box-header --><header class="box-header"><div class="box-logo"><div id="nav-logo"><a href="{{ 'index.html' | absolute_url }}">{{ site.title }}</a></div></div><!-- box-nav --> <a href="{{ 'give.html' | absolute_url }}"><button class="btn btn-square give-button">G I V E</button></a> <a class="box-primary-nav-trigger" href="#0"><span class="box-menu-text">Menu</span><span class="box-menu-icon"></span></a></header><!-- end box-header --><!-- nav --><nav><ul class="box-primary-nav"><li class="box-label">Menu</li>{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} {% for p in navigation_pages %} {% if p.navigation_weight %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endif %} {% endfor %}<!--<li class="box-label">Social</li>--><li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li><li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li><li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li><li class="box-label">Support</li><a href="{{ 'give.html' | absolute_url }}"><button class="btn btn-lg btn-block btn-square btn-white">G I V E</button></a></ul></nav><!-- end nav --></div>
+<div class="container-fluid">
+    <!-- box-header -->
+    <header class="box-header">
+        <div class="box-logo">
+            <div id="nav-logo"><a href="{{ 'index.html' | absolute_url }}">{{ site.title }}</a></div>
+        </div>
+        <!-- box-nav --><a href="{{ 'give.html' | absolute_url }}"><button class="btn btn-square give-button">G I V E</button></a>
+        <a class="box-primary-nav-trigger"
+            href="#0"><span class="box-menu-text">Menu</span><span class="box-menu-icon"></span></a>
+    </header>
+    <!-- end box-header -->
+    <!-- nav -->
+    <nav>
+        <ul class="box-primary-nav">
+            <li class="box-label">Menu</li>{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} 
+            {% for p in navigation_pages%} 
+            {% if p.navigation_weight %}
+            <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+            {% endif %} 
+            {% endfor %}
+            <!--<li class="box-label">Social</li>-->
+            <li class="box-social"><a href="https://www.facebook.com/gerssian"><i class="ion-social-facebook"></i></a></li>
+            <li class="box-social"><a href="https://instagram.com/janapauls"><i class="ion-social-instagram-outline"></i></a></li>
+            <li class="box-social"><a href="https://twitter.com/gerssian"><i class="ion-social-twitter"></i></a></li>
+            <li class="box-label">Support</li><a href="{{ 'give.html' | absolute_url }}"><button class="btn btn-lg btn-block btn-square btn-white">G I V E</button></a></ul>
+    </nav>
+    <!-- end nav -->
+</div>
