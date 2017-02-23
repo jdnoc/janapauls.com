@@ -3,7 +3,7 @@ title: A Paper On Revival
 date: 2017-02-22 22:59:00 Z
 ---
 
-I wrote this in my first year in Bible School, I was 19 or 20 at the time.
+I wrote this in my second year in Bible School, I about 20 at the time.
 It's a long one so enjoy the ride ;)
 
 
