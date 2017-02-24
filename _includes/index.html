@@ -47,7 +47,7 @@
         }
     </style>
     <section id="devotionals">
-        <div class="container  main-container clearfix text-center">
+        <div class="container main-container clearfix text-center">
             <div class="row">
                 <div class="col-md-12 text-center">
                     <h2>Devotionals</h2>
@@ -75,8 +75,9 @@
                         <p>{{ item.content | strip_html | truncatewords: 50 }}</p>
                         {% if item.video_id[0] != "none" %}
                         <div class="videoWrapper">
-                            <iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/{{ item.video_id[0] }}" frameborder="0" allowfullscreen></iframe> {% else %} {% if item.image %}
+                            <iframe width="560" height="315" src="" data-src="https://www.youtube.com/embed/{{ item.video_id[0] }}" frameborder="0" allowfullscreen></iframe>
                         </div>
+                        {% else %} {% if item.image %}
                         <div class="thumb-crop">
                             <a href="{{ item.url | absolute_url }}"><img src="{{item.image}}" alt="{{item.title}}" /></a>
                         </div>
@@ -89,20 +90,13 @@
                 </div>
             </div>
         </div>
-    </div>
     </section>
     <section>
         <div class="posts-div">
             <div class="posts">
                 <div class="no-padding posts_container">{% for post in site.posts limit:8 %}
                     <style>
-                        .post_ {
-                            {
-                                forloop.index0
-                            }
-                        }
-                        
-                        {
+                        .post_{{forloop.index0}} {
                             width: 100%;
                             padding-bottom: 100%;
                             background-image: url('{{ post.image }}');
@@ -111,26 +105,13 @@
                         }
                         
                         @media only screen and (max-width: 768px) {
-                            .post_ {
-                                {
-                                    forloop.index0
-                                }
-                            }
-                            {
+                            .post_{{forloop.index0}} {
                                 padding-bottom: 50%;
                                 background-attachment: scroll;
                                 background: -webkit-linear-gradient( rgba(0, 0, 0, .5),
                                 rgba(0, 0, 0, .5)),
                                 url("{{ post.image }}");
-                                background: linear-gradient( rgba(0,
-                                0,
-                                0,
-                                .5),
-                                rgba(0,
-                                0,
-                                0,
-                                .5)),
-                                url("{{ post.image }}");
+                                background: linear-gradient( rgba(0,0,0,.5),rgba(0,0,0,.5)),url("{{ post.image }}");
                             }
                         }
                     </style>
@@ -147,9 +128,7 @@
                         </a>
                     </div>{% endfor %}
                 </div>
-                <!-- end posts_container -->
             </div>
-            <!-- posts -->
         </div>
     </section>
 </div>
