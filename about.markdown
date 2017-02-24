@@ -6,18 +6,24 @@ image: "/uploads/IMG_1280_2-b1de7a.jpg"
 navigation_weight: 4
 ---
 
-# Hello, I'm Jana!
+# Hi, I'm Jana!
 
-I travel the world and evangelize to people who need to hear about Jesus. 
+I travel the world and preach the Gospel.
 
-I'm both German and Russian. Crazy!
+I'm both German and Russian. I know, what a mix.
+
+## My favorite color is [Ultramarine](https://en.wikipedia.org/wiki/Ultramarine)!
 
 ## How did I get where I am today?
 
-Lots of hard work.
+Majorly the Fire of God. But ultimately my love for my saviour Jesus Christ and His love for me.
+Oh yeah and work!
 
 ## What are my plans for the future?
 
-Lots more hard work.
+Lots more work. Can't take over the nations for Jesus while sitting on your blessed assurance.   
 
-## A Fun One - My favorite color is [Electric Ultramarine](https://en.wikipedia.org/wiki/Ultramarine)!
+
+Here is a short Bio:
+
+
