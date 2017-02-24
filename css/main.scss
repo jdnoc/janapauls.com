@@ -260,10 +260,35 @@ li {
 		-webkit-transform: translate3d(0, 100%, 0);
 		//Instead of the line below you could use @include transform($scale, $rotate, $transx, $transy, $skewx, $skewy, $originx, $originy)
 		transform: translate3d(0, 100%, 0);
+		#nav-logo a,
+		.box-menu-text {
+			color: white;
+		}
+		.box-menu-icon,
+		.box-menu-icon::after,
+		.box-menu-icon::before {
+			background-color: white;
+		}
+		.give-button {
+			border-color: white;
+			color: white;
+		}
 	}
 	&.menu-is-open {
 		background-color: $copper_80;
-		color: white;
+		#nav-logo a,
+		.box-menu-text {
+			color: white;
+		}
+		.box-menu-icon,
+		.box-menu-icon::after,
+		.box-menu-icon::before {
+			background-color: white;
+		}
+		.give-button {
+			border-color: white;
+			color: white;
+		}
 	}
 }
 .box-logo {
