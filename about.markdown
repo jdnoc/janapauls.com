@@ -2,7 +2,7 @@
 title: About
 date: 2017-02-23 14:52:00 Z
 subtitle: Meet Evangelist Jana Pauls
-image: "/uploads/IMG_1280_2.jpg"
+image: "/uploads/IMG_1280_2-b1de7a.jpg"
 navigation_weight: 4
 ---
 
