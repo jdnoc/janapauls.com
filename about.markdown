@@ -12,7 +12,7 @@ I travel the world and preach the Gospel.
 
 I'm both German and Russian. I know, what a mix.
 
-## My favorite color is [Ultramarine](https://en.wikipedia.org/wiki/Ultramarine)!
+My favorite color is [Ultramarine](https://en.wikipedia.org/wiki/Ultramarine)!
 
 ## How did I get where I am today?
 
