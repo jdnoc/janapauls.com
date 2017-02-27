@@ -10,6 +10,7 @@ tags:
 - lady
 - evangelist
 - single
+image: "/uploads/PIPurity-590x295.jpg"
 video_id:
 - brDrXqpZrrU
 ---
