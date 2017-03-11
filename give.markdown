@@ -7,7 +7,7 @@ image: "/uploads/IMG_6301.JPG"
 layout: pages
 ---
 
-## Support The Mission
+##BE PART OF THE MISSION
 
 Not everyone is called to the mission field or behind a pulpit, yet everyone is called to be a part of the move of God in the earth. 
 
