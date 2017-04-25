@@ -102,7 +102,7 @@ gems:
 sass:
   sass_dir: css/_sass
   style: uncompressed
-ga_analytics: UA-71688221-6
+ga_analytics: UA-98019281-1
 markdown: kramdown
 kramdown:
   imput: GFM
