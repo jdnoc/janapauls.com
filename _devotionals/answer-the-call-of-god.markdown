@@ -8,7 +8,7 @@ image: "/uploads/IMG_5904.JPG"
 
 You can see in this verse that being saved and being called are two different things but never to be separated. Worshiping and thanking God and fellowshipping with Him because Jesus saved us and reconciled us to God is the most important but not our sole purpose in this life. Yes Paul said that all things are but dung in comparison to **knowing Jesus Christ**, but He did not live as a hermit, shut off from the world just to spend time with Jesus. I'm talking about KNOWING CHRIST, not just a little but knowing Him in the power of His resurrection and the fellowship of his suffering as Paul desired (Philippians 3:10). Have no doubt about it, some people know God better than others, and the ones that do are those that pursue the call of God on their life and everyone can SEE it. How do we know this? It is like two sides to the same coin.
 
-**Daniel 11:32: **"\[...\] but the people that do **know their God** shall be strong, and **do exploits**."
+**Daniel 11:32**: "[...] but the people that do **know their God** shall be strong, and **do exploits**."
 
 Exploits means great and noticeable things! It is impossible to know God and never do amazing things in His name. And please, this is not talking about giving free hugs and smile at a sad looking person to make their day. This is talking about things that draw attention and cause persecution. Things that happen when you answer the call of God.
 
