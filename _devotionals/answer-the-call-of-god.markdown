@@ -1,7 +1,6 @@
 ---
 title: Answer The Call of God
 date: 2017-04-26 08:29:00 Z
-published: false
 image: "/uploads/IMG_5904.JPG"
 ---
 
