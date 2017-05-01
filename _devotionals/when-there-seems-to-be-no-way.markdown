@@ -1,5 +1,5 @@
 ---
-title: Walk By Faith
+title: The Path of Faith
 date: 2017-05-01 19:46:00 Z
 published: false
 tags:
