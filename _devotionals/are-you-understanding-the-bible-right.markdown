@@ -1,7 +1,7 @@
 ---
 title: Are you understanding the Bible right?
 date: 2017-02-22 22:48:00 Z
-position: 2
+position: 4
 image: "/uploads/IMG_0152.JPG"
 ---
 

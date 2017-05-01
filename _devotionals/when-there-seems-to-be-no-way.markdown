@@ -12,6 +12,7 @@ tags:
 - path
 - calling
 - burning bush
+position: 0
 image: "/uploads/949a44a6e137525f3340c3278bf09657.jpg"
 ---
 
