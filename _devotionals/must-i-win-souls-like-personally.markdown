@@ -1,6 +1,8 @@
 ---
 title: Must I win souls? Like personally?
 date: 2017-07-31 16:37:00 Z
+categories:
+- evangelsim
 image: "/uploads/fullsizeoutput_351d.jpeg"
 ---
 
@@ -45,4 +47,5 @@ THE ONLY THING YOU CAN TAKE WITH YOU TO HEAVEN IS SOULS.
 No one can do it for you. So do it!
 
 
-If you don't know how, download the gospel soulwinning script and just read it to someone!
+If you don't know how, download the gospel soulwinning script here >>>  https://www.revival.com/soulwinningtools
+and just read it to someone!
