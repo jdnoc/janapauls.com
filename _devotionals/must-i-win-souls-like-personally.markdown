@@ -2,7 +2,10 @@
 title: Must I win souls? Like personally?
 date: 2017-07-31 16:37:00 Z
 categories:
-- evangelsim
+- souls
+- salvation
+- great commission
+- evangelism
 image: "/uploads/fullsizeoutput_351d.jpeg"
 ---
 
