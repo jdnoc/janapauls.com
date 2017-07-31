@@ -6,6 +6,10 @@ categories:
 - salvation
 - great commission
 - evangelism
+tags:
+- souls
+- evangelsim
+- great commission
 image: "/uploads/fullsizeoutput_351d.jpeg"
 ---
 
