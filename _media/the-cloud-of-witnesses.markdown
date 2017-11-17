@@ -2,6 +2,6 @@
 title: The cloud of witnesses
 date: 2017-07-31 17:44:00 Z
 video_id:
-- https://youtu.be/Tfm1ieQzzYc
+- Tfm1ieQzzYc
 ---
 
