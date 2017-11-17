@@ -94,6 +94,10 @@ permalink: none
 twitter:
   username: gerssian
 paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BRMY9EMVUS2NU
+counter:
+  souls: 15000
+  countries: 29
+  cities: 50
 gems:
 - jekyll-feed
 - jekyll-assets
