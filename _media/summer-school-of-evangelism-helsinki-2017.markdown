@@ -2,7 +2,7 @@
 title: Summer School of Evangelism - Helsinki 2017
 date: 2017-08-10 18:52:00 Z
 video_id:
-- https://youtu.be/yUNrX0pOan0
+- yUNrX0pOan0
 ---
 
 Check out these testimonies from 3 of the students that joined the evangelism school this summer in Helsinki Finland.
