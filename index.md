@@ -4,7 +4,7 @@ image: "/uploads/IMG_0222.jpg"
 header-titles:
 - Jana Pauls.
 - Evangelist.
-- 'Mission: Revival'
+- 'Mission: Revival.'
 layout: default
 ---
 
