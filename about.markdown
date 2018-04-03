@@ -2,7 +2,7 @@
 title: About
 date: 2017-02-23 14:52:00 Z
 subtitle: Meet Evangelist Jana Pauls
-image: "/uploads/IMG_1280_2-b1de7a.jpg"
+image: "/uploads/Colorado-Colorado-0014.jpg"
 navigation_weight: 4
 ---
 
@@ -10,7 +10,7 @@ navigation_weight: 4
 
 I travel the world and preach the Gospel.
 
-I'm both German and Russian. I know, what a mix.
+I am German and Russian, yes I can be both.
 
 My favorite color is [Ultramarine](https://en.wikipedia.org/wiki/Ultramarine)!
 
@@ -21,8 +21,7 @@ Oh yeah and work!
 
 ## What are my plans for the future?
 
-Lots more work. Can't take over the nations for Jesus while sitting on your blessed assurance.   
-
+A LOT of more work. Can't take over the nations for Jesus while sitting on your behind.   
 
 Here is a short Bio:
 
@@ -34,6 +33,6 @@ Missionary and Evangelist Jana Pauls has been in the full time ministry since gr
 She was licensed as a minister in 2012 through Revival Ministries International under Drs. Rodney and Adonica Howard Browne. 
 In 2014 she was ordained through RMI as well.
 She travels internationally to preach and teach the Word of God and train and mobilise believers to bring in the harvest of souls. 
-She has ministered across America, Europe, Africa and the Middle East in a total of 21 nations so far and counting.
+She has ministered across America, Europe, Africa, Asia and the Middle East in a total of 30 nations so far and counting.
 
 The mission is revival, the goal is always souls.
