@@ -95,9 +95,9 @@ twitter:
   username: gerssian
 paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BRMY9EMVUS2NU
 counter:
-  souls: 29392
+  souls: 37286
   countries: 32
-  cities: 78
+  cities: 79
 gems:
 - jekyll-feed
 - jekyll-assets
