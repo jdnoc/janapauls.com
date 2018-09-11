@@ -19,13 +19,12 @@ tags:
 image: "/uploads/Jana-Pauls-Facebook-Banner-2.jpeg"
 video_id:
 - AJPzgInYgWU
-verses:
-- "Mark 16:15 \nAnd he said unto them, Go ye into all the world, and preach the gospel
-  to every creature.\n\nMatthew 16:24\nThen said Jesus unto his disciples, If any
-  man will come after me, let him deny himself, and take up his cross, and follow
-  me.\n\nMark 1:17\nAnd Jesus said unto them, Come ye after me, and I will make you
-  to become fishers of men.\n\nJohn 20:21\nThen said Jesus to them again, Peace be
-  unto you: as my Father hath sent me, even so send I you.\n\nJohn 14:12\nVerily,
+bible: "Mark 16:15 \nAnd he said unto them, Go ye into all the world, and preach the
+  gospel to every creature.\n\nMatthew 16:24\nThen said Jesus unto his disciples,
+  If any man will come after me, let him deny himself, and take up his cross, and
+  follow me.\n\nMark 1:17\nAnd Jesus said unto them, Come ye after me, and I will
+  make you to become fishers of men.\n\nJohn 20:21\nThen said Jesus to them again,
+  Peace be unto you: as my Father hath sent me, even so send I you.\n\nJohn 14:12\nVerily,
   verily, I say unto you, He that believeth on me, the works that I do shall he do
   also; and greater works than these shall he do; because I go unto my Father.\n\nLuke
   19:10\nFor the Son of man is come to seek and to save that which was lost.\n\nActs
@@ -46,8 +45,13 @@ verses:
   the spirit indeed is willing, but the flesh is weak.\n\n2 Timothy 1:7\nFor God hath
   not given us the spirit of fear; but of power, and of love, and of a sound mind.\n\nProverbs
   28:1\nThe wicked flee when no man pursueth: but the righteous are bold as a lion."
+verses:
+- none
+audio_id:
 - 
-layout: media
+- 
+layout: default
 ---
 
 Is Jesus actually telling YOU today to preach the gospel? Does Mark 16:15 apply to every believer?
+
