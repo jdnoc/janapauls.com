@@ -21,10 +21,15 @@ video_id:
 - AJPzgInYgWU
 verses:
 - none
+audio_id:
+- 
+- 
 layout: media
 ---
 
 Is Jesus actually telling YOU today to preach the gospel? Does Mark 16:15 apply to every believer?
+
+Key Verses
 
 Mark 16:15 
 And he said unto them, Go ye into all the world, and preach the gospel to every creature.
@@ -73,3 +78,4 @@ For God hath not given us the spirit of fear; but of power, and of love, and of 
 
 Proverbs 28:1
 The wicked flee when no man pursueth: but the righteous are bold as a lion.
+
