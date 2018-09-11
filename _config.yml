@@ -39,12 +39,9 @@ defaults:
     type: media
   values:
     layout: media
-    image: 
+    image:
+    subtitle:
     video_id:
-    - none
-    audio_id:
-    - none
-    verses:
     - none
 - scope:
     path: ''
