@@ -39,8 +39,8 @@ defaults:
     type: media
   values:
     layout: media
-    image:
-    subtitle:
+    image: 
+    subtitle: 
     video_id:
     - none
 - scope:
