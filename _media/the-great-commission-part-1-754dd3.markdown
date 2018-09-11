@@ -21,9 +21,6 @@ video_id:
 - AJPzgInYgWU
 verses:
 - none
-audio_id:
-- 
-- 
 layout: media
 ---
 
