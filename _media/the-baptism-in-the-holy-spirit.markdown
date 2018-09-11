@@ -16,7 +16,7 @@ tags:
 - revival
 image: "/uploads/IMG_6354.jpeg"
 video_id:
-- https://youtu.be/Sk4C07VAmng
+- Sk4C07VAmng
 verses:
 - |-
   John 7:38  (KJV)
