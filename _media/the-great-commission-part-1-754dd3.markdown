@@ -46,7 +46,8 @@ verses:
   the spirit indeed is willing, but the flesh is weak.\n\n2 Timothy 1:7\nFor God hath
   not given us the spirit of fear; but of power, and of love, and of a sound mind.\n\nProverbs
   28:1\nThe wicked flee when no man pursueth: but the righteous are bold as a lion."
-layout: default
+- 
+layout: media
 ---
 
 Is Jesus actually telling YOU today to preach the gospel? Does Mark 16:15 apply to every believer?
