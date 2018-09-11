@@ -1,6 +1,5 @@
 ---
 title: Jana Pauls Ministries Intl.
-timezone: UTC
 collections:
   devotionals:
     title: Devotionals
@@ -95,10 +94,7 @@ counter:
   souls: 48264
   countries: 33
   cities: 83
-gems:
-- jekyll-feed
-- jekyll-assets
-- jekyll-paginate
+plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
 sass:

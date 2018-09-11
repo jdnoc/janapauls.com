@@ -34,14 +34,6 @@ layout: pages
         {% endfor %}
       {% endif %}
     </div>
-    {% if page.verses[0] != "none" %}
-    <div class="col-sm-12">
-        <h2>Key Verses</h2>
-        {% for item in page.verses %}
-        <a class="rtBibleRef" href="http://biblia.com/bible/nkjv/{{ item }}" data-reference="{{ item }}" data-version="nkjv" data-purpose="bible-reference" target="_blank"><button class="btn btn-xl-dark">{{ item }}</button></a>
-        {% endfor %}
-    </div>
-    {% endif %}
     <div class="col-sm-12">
       <!--<hr>-->
       <div class="post-content" itemprop="articleBody">
@@ -49,18 +41,7 @@ layout: pages
       </div>
       <!--<hr>-->
     </div>
-    {% if page.audio_id[0] != "none" %}
-    <div class="col-sm-6 ">
-      <div class="share-page">
-        <h3>Download</h3>
-        <a href="https://a.clyp.it/{{ page.audio_id }}.mp3" download="{{ page.title }}.mp3"><button class="btn btn-xl-dark" type="button" name="button">Right-click<br>'Save link as...'</button></a>
-      </div>
-    </div>
-    <div class="col-sm-6 text-center">
-    {% else %}
     <div class="col-sm-12 text-center">
-    {% endif %}
-
       <ul class="social-ul">
           <li class="box-social"><h4>Share:</h4></li>
           <li class="box-social"><a href="https://facebook.com/sharer.php?u={{ site.baseurl | prepend: site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook"><i class="ion-social-facebook"></i></a></li>
@@ -71,28 +52,4 @@ layout: pages
     <div class="col-md-12">
         {% include comments.html %}
     </div>
-
-    <!--<div class="col-sm-12 ">
-        <div id="disqus_thread"></div>
-        <script>
-
-        /**
-         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
-        /*
-        var disqus_config = function () {
-            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-        };
-        */
-        (function() {
-            var d = document, s = d.createElement('script');
-            s.src = '//riverrochester.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-        })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-    </div>-->
 </div>
