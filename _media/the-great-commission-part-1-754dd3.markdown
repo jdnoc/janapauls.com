@@ -50,7 +50,7 @@ verses:
 audio_id:
 - 
 - 
-layout: default
+layout: media
 ---
 
 Is Jesus actually telling YOU today to preach the gospel? Does Mark 16:15 apply to every believer?
