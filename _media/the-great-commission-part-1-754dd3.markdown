@@ -1,5 +1,5 @@
 ---
-title: "The Great Commission \nPart 1"
+title: The Great Commission
 date: 2018-09-11 09:10:00 Z
 categories:
 - bible
@@ -17,10 +17,9 @@ tags:
 - acts
 - witness
 image: "/uploads/Jana-Pauls-Facebook-Banner-2.jpeg"
+subtitle: Part 1
 video_id:
 - AJPzgInYgWU
-verses:
-- none
 layout: media
 ---
 
