@@ -56,7 +56,7 @@ Today I am going back to Beirut to start my Arabic course next week. To master t
 After being in the ministry for many years, Evangelist T.L. Osborn learned French to be able to reach French speaking countries in Africa. He was also fluent in Spanish. We should never limit ourselves in the natural or the supernatural. Whatever it is the Lord told you to do, prepare yourself in advance so that you do not have to make up for lost time later! It is never too late!
 
 Next month I will be traveling to upstate New York to be part of a conference at the River Rochester Church with my dear friends pastors Jeremiah and Julia Thomas. We are believing God for a breakthrough in their church and for the people to be ignited with a passion for souls!
-Straight from there I will be flying to Helsinki Finland to teach and train at the Summer School of Evangelism.
+Straight from there I will be flying to Helsinki Finland to teach and train at the Summer School of Evangelism. 
 
 ![815dd3b2-24a2-4ab8-9708-e27dc357b237.jpg](/uploads/815dd3b2-24a2-4ab8-9708-e27dc357b237.jpg)
 
