@@ -76,7 +76,7 @@ I also got to preach Sunday night and teach at the River Bible Institute Finland
 
 ![3e9055a6-c807-4e28-87f8-bf3d5ebeaac2.jpeg](/uploads/3e9055a6-c807-4e28-87f8-bf3d5ebeaac2.jpeg)
 
-I will be attending a conference in Switerland after which I will minister to the local evangelism team of the church that has been running since my first visit in 2011. It will be a great time of impartation for the team leading up to their big Pentecost outreach in May. The second half of April I will be doing evangelism training and preach at the River Chruch in Warsaw Poland for the first time which I am very excited about.
+I will be attending a conference in Switzerland after which I will minister to the local evangelism team of the church that has been running since my first visit in 2011. It will be a great time of impartation for the team leading up to their big Pentecost outreach in May. The second half of April I will be doing evangelism training and preach at the River Church in Warsaw Poland for the first time which I am very excited about.
 
 This newsletter has been pretty long but that's because the Lord has been doing more in and through me than ever before and so the following ones will probably be even longer... So I may just do videos to spare you from all the reading. 
 
