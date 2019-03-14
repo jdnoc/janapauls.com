@@ -65,19 +65,7 @@ Saturday night the church held a funfair for the children in the neighborhood an
 
 Now I am back in Beirut to continue my Arabic studies. It is going well and I am full of faith to master this language supernaturally.
 
-## And here is some exciting news!!!!!
-
-* This coming October I will be ministering in EGYPT. It will be a one week trip where I will minister in at least two churches, and hold two Soulwinning conferences in two different locations.
-
-This will be the first time I will be renting a venue so that a group of Bible School students are able to come for three whole days and spend the nights there. There will be multiple Evangelism sessions during the day and street outreach.
-
-The budget is $2000 just for the 3 day Bible School seminar and you can be a part by sowing seed into this nation and sponsoring an Egyptian soulwinner in the making! By the way, there is no religious freedom in Egypt so going out on the streets will be especially powerful. So you are very welcome to pray for this event.
-
-Also:
-
-* I will be traveling to two other middle eastern countries before that, which I cannot mention by name. I know the Lord has opened these doors for me supernaturally and it is the right time. I am not sure how much and how safe it will be to take pictures and videos but I will definitely report about it in my next newsletter.
 * In November I will be back in the US to minister at a women's conference and I can't wait!
 
 So keep me in your prayers as I preach the Gospel in the Middle East to the precious Arab people.
 
-Oh yeah and I changed my ministry name, I'm not that creative with names so I kept it simple as you can see up top. 😊
