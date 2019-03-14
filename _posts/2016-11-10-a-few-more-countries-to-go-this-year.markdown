@@ -17,7 +17,6 @@ I'm excited to tell you about my upcoming itinerary for the rest of this year an
 
 * November 11-20: Juba, South Sudan
 * November 22 - December 4: Thessaloniki Greece
-* December 14 - 20: Cairo, Egypt
 
 As you may know I have been focusing on learning Arabic the last couple of months but in the meantime more doors have opened up for me to preach and teach.
 
@@ -27,7 +26,7 @@ The same week my friend Melina from Greece happened to visit some of her family 
 
 Besides seeing people touched by the power of God right in front of me, it is just as amazing to hear about LASTING FRUIT.
 
-Beginning of July I held my very first women's conference at the River Rochester Church in upstate NY with my dear friends pastors Jeremiah and Julia Thomas. Life's were touched and changed and every woman who came that didn't have the baptizm in the Holy Ghost left praying in tongues!!
+Beginning of July I held my very first women's conference at the River Rochester Church in upstate NY with my dear friends pastors Jeremiah and Julia Thomas. Lives were touched and changed and every woman who came that didn't have the baptism in the Holy Ghost left praying in tongues!!
 
 The girl on the left in the picture below got baptized in the Holy Ghost on the second night and brought her friend to receive the baptism the next day and they both spend a long time at that altar praying in their heavenly language. This was definitely one of my highlights! When you get touched and filled you bring your friends to get the same thing!
 
@@ -47,10 +46,3 @@ Precious souls dedicating their lives to Jesus. Never gets old!
 
 ![2707048f-dcfd-4e45-9f84-f855e242382a.jpg](/uploads/2707048f-dcfd-4e45-9f84-f855e242382a.jpg)
 
-I am actually writing this newsletter at the Dubai airport as I am waiting for my flight to Juba. The church there started under a tree and kept growing and now they've a working on finishing constructions on their first building. As you can see below. 
-
-![a44b83d5-e1f5-4265-84b0-cf09b48c0a85.jpg](/uploads/a44b83d5-e1f5-4265-84b0-cf09b48c0a85.jpg)
-
-![fa84e2ad-20f0-4988-9e99-07ed87f5eb66.jpg](/uploads/fa84e2ad-20f0-4988-9e99-07ed87f5eb66.jpg)
-
-If you heard anything about South Sudan you may now that it is not a walk in the park to live there, let alone to be a Christian. So if you would like to be a blessing to these people you can sow a significant seed today, just put "JUBA" in the comment section.
