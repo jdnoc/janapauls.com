@@ -8,7 +8,7 @@ navigation_weight: 4
 
 # Hi, I'm Jana.
 
-I travel the world and preach the Gospel.
+I travel the world and preach the Gospel, like full time! It's pretty epic.
 
 I am German and Russian, yes both.
 
