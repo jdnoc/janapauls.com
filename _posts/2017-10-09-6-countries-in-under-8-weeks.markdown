@@ -1,6 +1,6 @@
 ---
 title: 6 Countries In Under 8 Weeks!
-date: 2019-06-20 10:21:00 Z
+date: 2017-10-09 10:21:00 Z
 ---
 
 Let me tell you about my packed last two months! It was probably the busiest summer I ever had with the most traveling distance as well. 6 countries in under 8 weeks and many souls were saved and lives changed for ever to the glory of God!
