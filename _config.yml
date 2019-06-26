@@ -88,7 +88,7 @@ paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BRM
 counter:
   souls: 48516
   countries: 33
-  cities: 85
+  cities: 86
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
