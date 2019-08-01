@@ -52,6 +52,8 @@ My personal highlight of these last two months was my brother's wedding last Sat
 My Russian aunts and uncles came, one family from north Germany that I haven't seen in about 4 years , and the other from Russia that I haven't seen in 11 years. Since they stayed at our house I was able to share the gospel with them and they all prayed the prayer of salvation and confessed Jesus to be their Lord right in our house!!! I was a crying mess and so grateful to God for their open hearts. 
 You can see them all in the picture below :)
 
+![wedd.jpg](/uploads/wedd.jpg)
+
 As you put God first, and pursue the call on your life and win souls, you may have to leave family behind and sacrifice a lot of time that you cannot spend with them. BUT GOD is working on your behalf and you AND YOUR HOUSE SHALL BE SAVED!
 
 I see thousands of souls saved in the nations but nothings beats seeing your own family receiving Jesus!
