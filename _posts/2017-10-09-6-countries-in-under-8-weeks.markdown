@@ -24,7 +24,11 @@ Over 40 people received the baptism in the Holy Ghost in the picture below. No o
 Bola De Neve Church,
 they had a cool pulpit and the offering buckets were made of skateboards xD
 
+![e.jpg](/uploads/e.jpg)
+
 Church Do Alto, 2 nights, many souls and people were baptized in the Holy Spirit including children.
+
+![f.jpg](/uploads/f.jpg)
 
 From Brazil my journey continued to Riga, Latvia. 3 nights of preaching, teaching at the River Bible Institute Riga and 2 nights of soulwinning.
 People drove over 2 hours to come to the meetings and the training! 20 people dedicated their lives to Jesus at the altar and 95 people received Jesus on the streets! And 5 people were baptized in the Holy Spirit and spoke in tongues!
