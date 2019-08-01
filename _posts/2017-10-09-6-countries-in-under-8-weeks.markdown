@@ -11,6 +11,8 @@ Right after Summer School of Evangelism in Finland (which was amazing! 4020 soul
 
 From Switzerland I flew over to Amsterdam Holland to help my friends pastors Ben and Jacky Kroeske with Holland Ablaze with Drs. Rodney and Adonica Howard-Browne. I had the privilege to challenge people to win souls after the last service and invite them to get trained on the streets the following Saturday. 70 believers came, over 50 were not from the River church and were trained for the first time to evangelize. With the help of the members of River Amsterdam church and 10 people from the River Helsinki church all these new soulwinners were trained and 264 people received Jesus on the streets of Amsterdam that day!! 
 
+![b.jpeg](/uploads/b.jpeg)
+
 From Amsterdam I flew to a wedding in the US and from there to Brazil. There I did soulwinning training and preached 5 nights in three churches in the city of Campo Grande. Over 150 people dedicated their lives to the Lord at the altars of the church, over 70 believers were trained and mobilized to win souls and brought over 300 people to Jesus in a park in just one hour! I know this was the first of many more trips to Brazil. The harvest is ripe and the people are so willing to go out and be used by God!
 
 Over 40 people received the baptism in the Holy Ghost in the picture below. No one that came to the front left without praying in a new tongue! Glory to God!
