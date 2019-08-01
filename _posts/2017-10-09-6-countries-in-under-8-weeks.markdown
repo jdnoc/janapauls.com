@@ -46,6 +46,8 @@ From Italy I flew back up north to Helsinki Finland, where I preached at a women
 Women from all over Finland attended, some traveled from the far north and some even came from Germany!
 We saw many women touched and filled with the power of God and Joy of the Holy Ghost!
 
+![j.jpg](/uploads/j.jpg)
+
 My personal highlight of these last two months was my brother's wedding last Saturday. He hasn't been in church for over 10 years and she has never been in church and since they didn't have a church wedding they asked me to do a ceremony for them at the reception. I was able to bless them, pray over them and our family and friends. 
 My Russian aunts and uncles came, one family from north Germany that I haven't seen in about 4 years , and the other from Russia that I haven't seen in 11 years. Since they stayed at our house I was able to share the gospel with them and they all prayed the prayer of salvation and confessed Jesus to be their Lord right in our house!!! I was a crying mess and so grateful to God for their open hearts. 
 You can see them all in the picture below :)
