@@ -87,8 +87,8 @@ twitter:
 paypal: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BRMY9EMVUS2NU
 counter:
   souls: '57,889'
-  countries: 34
-  cities: 88
+  countries: 35
+  cities: 89
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
