@@ -7,6 +7,8 @@ Let me tell you about my packed last two months! It was probably the busiest sum
 
 Right after Summer School of Evangelism in Finland (which was amazing! 4020 souls in 14 days!!!) I went to Switzerland to do evangelism training and preach Sunday and Tuesday at Zoe Gospel Centre. 15 people dedicated their lives to Christ in church, 30 believers were mobilized and 70 people received Jesus on the streets! We had a powerful time in the presence of God and I used some serious skills jumping on and over chairs in high heels ;D It is a BLAST to serve the LORD!
 
+![a.jpg](/uploads/a.jpg)
+
 From Switzerland I flew over to Amsterdam Holland to help my friends pastors Ben and Jacky Kroeske with Holland Ablaze with Drs. Rodney and Adonica Howard-Browne. I had the privilege to challenge people to win souls after the last service and invite them to get trained on the streets the following Saturday. 70 believers came, over 50 were not from the River church and were trained for the first time to evangelize. With the help of the members of River Amsterdam church and 10 people from the River Helsinki church all these new soulwinners were trained and 264 people received Jesus on the streets of Amsterdam that day!! 
 
 From Amsterdam I flew to a wedding in the US and from there to Brazil. There I did soulwinning training and preached 5 nights in three churches in the city of Campo Grande. Over 150 people dedicated their lives to the Lord at the altars of the church, over 70 believers were trained and mobilized to win souls and brought over 300 people to Jesus in a park in just one hour! I know this was the first of many more trips to Brazil. The harvest is ripe and the people are so willing to go out and be used by God!
