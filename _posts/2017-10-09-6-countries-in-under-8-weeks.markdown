@@ -38,7 +38,7 @@ People drove over 2 hours to come to the meetings and the training! 20 people de
 From Riga, I flew down south to Italy to minister at the River Church Modena. There I did soulwinning training on Saturday, preached Sunday morning, had another soulwinning session and preached Sunday night and Tuesday night. It was amazing to see the hunger of the people and their willingness and boldness to evangelize on the streets! Soulwinners were even chasing down people on bicycles! It was very entertaining to see ;D
 I had two of my friends with me that are both in the ministry, Samuel Dent who shared on stewardship and ministered to people and Joshua Kight who led us in worship and gave a practical teaching on worship to the worship team of the church.
 We had a Holy Ghost blow out together on Sunday! 
-130 people received Jesus on the streets, 10 dedicated their lives in the meetings and people were baptized in the Holy Ghost. One of those people who desired to pray in tongues and was filled was a 83 year olf lady!!! To see her face when she prayed in tongues for the first time was definitely one of my highlights of this trip! 
+130 people received Jesus on the streets, 10 dedicated their lives in the meetings and people were baptized in the Holy Ghost. One of those people who desired to pray in tongues and was filled was a 83 year old lady!!! To see her face when she prayed in tongues for the first time was definitely one of my highlights of this trip! 
 
 ![h.jpeg](/uploads/h.jpeg)![I-0c7b5b.jpg](/uploads/I-0c7b5b.jpg)
 
