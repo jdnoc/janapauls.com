@@ -40,6 +40,8 @@ I had two of my friends with me that are both in the ministry, Samuel Dent who s
 We had a Holy Ghost blow out together on Sunday! 
 130 people received Jesus on the streets, 10 dedicated their lives in the meetings and people were baptized in the Holy Ghost. One of those people who desired to pray in tongues and was filled was a 83 year olf lady!!! To see her face when she prayed in tongues for the first time was definitely one of my highlights of this trip! 
 
+![h.jpeg](/uploads/h.jpeg)![I-0c7b5b.jpg](/uploads/I-0c7b5b.jpg)
+
 From Italy I flew back up north to Helsinki Finland, where I preached at a women's conference for two days, along side my dear friend pastor Sanna Lehto. This was my second women's conference and I do believe women in Europe and other parts of the world need to be empowered to step into the call that God has for them. 
 Women from all over Finland attended, some traveled from the far north and some even came from Germany!
 We saw many women touched and filled with the power of God and Joy of the Holy Ghost!
