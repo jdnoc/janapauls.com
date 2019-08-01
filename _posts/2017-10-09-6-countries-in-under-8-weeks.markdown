@@ -15,6 +15,8 @@ From Switzerland I flew over to Amsterdam Holland to help my friends pastors Ben
 
 From Amsterdam I flew to a wedding in the US and from there to Brazil. There I did soulwinning training and preached 5 nights in three churches in the city of Campo Grande. Over 150 people dedicated their lives to the Lord at the altars of the church, over 70 believers were trained and mobilized to win souls and brought over 300 people to Jesus in a park in just one hour! I know this was the first of many more trips to Brazil. The harvest is ripe and the people are so willing to go out and be used by God!
 
+![c.jpg](/uploads/c.jpg)
+
 Over 40 people received the baptism in the Holy Ghost in the picture below. No one that came to the front left without praying in a new tongue! Glory to God!
 
 Bola De Neve Church,
