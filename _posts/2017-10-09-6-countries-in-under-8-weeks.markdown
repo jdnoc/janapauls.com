@@ -19,6 +19,8 @@ From Amsterdam I flew to a wedding in the US and from there to Brazil. There I d
 
 Over 40 people received the baptism in the Holy Ghost in the picture below. No one that came to the front left without praying in a new tongue! Glory to God!
 
+![d.jpg](/uploads/d.jpg)
+
 Bola De Neve Church,
 they had a cool pulpit and the offering buckets were made of skateboards xD
 
