@@ -48,3 +48,8 @@ Over 280 people received Jesus! 33 were baptized in the Holy Ghost, 16 were heal
 One city turned to 6, all over the country, with over 35hrs on the road in 17 days!! It was intense and awesome!
 
 ![ukr.png](/uploads/ukr.png)
+
+Where am I heading now?
+Nov 16 - 27 Bacolod and Manila, Philippines
+> My first time in ASIA!
+ISIS has been affecting the Philippines big time, we just don't hear much about it. But the church must rise up in the power of the Holy Spirit so I am excited to be able to minister there.
