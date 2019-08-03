@@ -8,6 +8,7 @@ I taught a session on Leadership on Friday, took part at a panel discussion on S
 Young people from all over the Ukraine showed up for those meetings.
 36 dedicated their life to Christ, followed by a call for the Baptism in the Holy Spirit and all 16 that came began to pray in tongues for the first time! The power of God fell in the place and many were touched and filled. 
 ![Ki.jpg](/uploads/Ki.jpg)
+
 ![kie.jpg](/uploads/kie.jpg)
 
 After my morning session, the senior pastor of an affiliated church that heard me preach asked me if I can come and preach at his church on Sunday. Of course I said YES, my schedule was open :D.
@@ -36,12 +37,14 @@ This is happening in EUROPE. Yet again I received another surge of urgency in my
 After having dinner at an orphanage we headed out and drove back to Nikolaev. The drivers were tired so we arrived at around 8pm the next morning.
 
 ![sui.jpg](/uploads/sui.jpg)
+
 ![suit.jpg](/uploads/suit.jpg)
 
 I slept for a few hours at the pastors house and in the early evening went on another train for 14 hrs to go to my last destination, a church in Kharkiv, in the east of Ukraine. Just FYI most cities do not have airports and the trains have beds so it's not the worst form of transportation.
 There I taught on soulwinning Friday and Saturday and took out about 18 people on the streets and 27 people received Jesus! On Sunday morning 14 people gave their lives to Christ at the altar and many came to receive the power of the Holy Spirit to win souls.
 
 ![hil.jpeg](/uploads/hil.jpeg)
+
 ![hill.jpg](/uploads/hill.jpg)
 
 Over 280 people received Jesus! 33 were baptized in the Holy Ghost, 16 were healed in their bodies and over 100 believers were trained on the streets to win souls and many more committed to be a bold witness for the Lord Jesus Christ! And all the glory goes to our wonderful God!
