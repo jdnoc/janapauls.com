@@ -43,3 +43,6 @@ There I taught on soulwinning Friday and Saturday and took out about 18 people o
 
 ![hil.jpeg](/uploads/hil.jpeg)
 ![hill.jpg](/uploads/hill.jpg)
+
+Over 280 people received Jesus! 33 were baptized in the Holy Ghost, 16 were healed in their bodies and over 100 believers were trained on the streets to win souls and many more committed to be a bold witness for the Lord Jesus Christ! And all the glory goes to our wonderful God!
+One city turned to 6, all over the country, with over 35hrs on the road in 17 days!! It was intense and awesome!
