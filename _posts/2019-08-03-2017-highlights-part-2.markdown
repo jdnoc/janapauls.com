@@ -8,3 +8,4 @@ I taught a session on Leadership on Friday, took part at a panel discussion on S
 Young people from all over the Ukraine showed up for those meetings.
 36 dedicated their life to Christ, followed by a call for the Baptism in the Holy Spirit and all 16 that came began to pray in tongues for the first time! The power of God fell in the place and many were touched and filled. 
 ![Ki.jpg](/uploads/Ki.jpg)
+![kie.jpg](/uploads/kie.jpg)
