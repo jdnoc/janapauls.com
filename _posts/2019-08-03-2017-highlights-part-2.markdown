@@ -36,3 +36,4 @@ This is happening in EUROPE. Yet again I received another surge of urgency in my
 After having dinner at an orphanage we headed out and drove back to Nikolaev. The drivers were tired so we arrived at around 8pm the next morning.
 
 ![sui.jpg](/uploads/sui.jpg)
+![suit.jpg](/uploads/suit.jpg)
