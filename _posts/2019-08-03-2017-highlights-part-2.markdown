@@ -34,3 +34,5 @@ I basically said, I don't care what you think about church or God, but there is 
 At the same time another soldier lost his life on another post we were going to go to next but couldn't because of open fire.
 This is happening in EUROPE. Yet again I received another surge of urgency in my spirit.
 After having dinner at an orphanage we headed out and drove back to Nikolaev. The drivers were tired so we arrived at around 8pm the next morning.
+
+![sui.jpg](/uploads/sui.jpg)
