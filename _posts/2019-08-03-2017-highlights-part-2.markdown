@@ -12,3 +12,5 @@ Young people from all over the Ukraine showed up for those meetings.
 
 After my morning session, the senior pastor of an affiliated church that heard me preach asked me if I can come and preach at his church on Sunday. Of course I said YES, my schedule was open :D.
 So I packed my bags ready to leave on a night train to Nikolaev (412km/256mi) which arrived at 7 am. I got settled into a nice little apartment and got ready to preach at 11am. 12 people dedicated their lives to Jesus at that little but packed out church and many were touched by the power of God. Monday and Tuesday I taught on Evangelism for almost 6 hrs combined and many of the youth didn't even wait for the weekend to win souls but led people to Jesus even before going home that night!
+
+![nik.jpg](/uploads/nik.jpg)
