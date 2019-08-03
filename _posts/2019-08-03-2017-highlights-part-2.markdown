@@ -40,3 +40,5 @@ After having dinner at an orphanage we headed out and drove back to Nikolaev. Th
 
 I slept for a few hours at the pastors house and in the early evening went on another train for 14 hrs to go to my last destination, a church in Kharkiv, in the east of Ukraine. Just FYI most cities do not have airports and the trains have beds so it's not the worst form of transportation.
 There I taught on soulwinning Friday and Saturday and took out about 18 people on the streets and 27 people received Jesus! On Sunday morning 14 people gave their lives to Christ at the altar and many came to receive the power of the Holy Spirit to win souls.
+
+![hil.jpeg](/uploads/hil.jpeg)
