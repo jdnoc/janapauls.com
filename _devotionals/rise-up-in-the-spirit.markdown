@@ -1,6 +1,17 @@
 ---
 title: RISE UP IN THE SPIRIT
 date: 2019-10-31 16:46:00 Z
+tags:
+- god
+- jesus
+- souls
+- evangelism
+- burn out
+- enemy
+- boldness
+- ministry
+- fire
+- spirit
 image: "/uploads/J1-470924.jpg"
 ---
 
