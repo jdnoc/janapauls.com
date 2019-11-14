@@ -1,5 +1,5 @@
 ---
-title: RISE UP IN THE SPIRIT
+title: Rise up in the spirit
 date: 2019-10-31 16:46:00 Z
 tags:
 - god
