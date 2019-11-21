@@ -1,7 +1,7 @@
 ---
 title: Fulfill your ministry
 date: 2019-11-07 18:37:00 Z
-image: "/uploads/J2.jpg"
+image: "/uploads/J3.jpg"
 ---
 
 “But you be watchful in all things, endure afflictions, do the work of an evangelist, fulfill your ministry.” (2 Timothy 4:5 AMPC)
