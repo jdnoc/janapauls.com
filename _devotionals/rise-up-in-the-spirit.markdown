@@ -12,7 +12,7 @@ tags:
 - ministry
 - fire
 - spirit
-image: "/uploads/J1-470924.jpg"
+image: "/uploads/J1-5317ae.jpg"
 ---
 
 When I was 21 years old and in the second year of my bible school, all hell started to break loose in my life. When you get serious about the things of God, the devil is going to try to do everything to stop you. But when the enemy comes in like a flood, God will raise a standard up against him.
