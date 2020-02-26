@@ -9,7 +9,7 @@ layout: pages
 
 ## BE PART OF THE MISSION
 
-Not everyone is called to the mission field or behind a pulpit, yet everyone is called to be a part of the move of God in the earth. 
+Not everyone is called to the mission field or behind a pulpit, yet everyone is called to be a part of advancing the kingdom of God.
 
 This life is short in light of eternity, Jesus is coming back soon and no one should stand before Him empty handed. Win souls and invest into the kingdom of God to bring forth fruit that will last into eternity and to bring glory to our wonderful God.
 
