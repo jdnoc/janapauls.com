@@ -86,9 +86,9 @@ twitter:
   username: gerssian
 paypal: https://www.paypal.me/evjana
 counter:
-  souls: '57,889'
-  countries: 35
-  cities: 89
+  souls: '61,164'
+  countries: 34
+  cities: 94
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
